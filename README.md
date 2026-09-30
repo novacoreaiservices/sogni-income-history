@@ -30,7 +30,11 @@ Network workers (#462 and #463).
 | month_forecast_cad | month-end projection in CAD |
 | fx_usdcad | mid-market FX rate used |
 | today_unlimited_units | Unlimited Spark units today |
-| yesterday_total_usd | previous closed day's combined total, USD |
+| yesterday_total_usd | previous closed dashboard (UTC) day's combined total, USD |
+| yesterday_8pm_total_usd | last COMPLETED 8pm-Toronto to 8pm-Toronto window, USD (exact year-round; in winter the 8-9pm edges are adjusted) |
+| yesterday_8pm_payg_usd | PAYG portion of that window |
+| yesterday_8pm_sub_usd | subscription portion of that window |
+| yesterday_8pm_total_cad | that window's total in CAD |
 | month_usd | month-to-date subscription earnings, USD (live estimate) |
 | month_units | month-to-date render units |
 | w462_mtd_usd / w463_mtd_usd | per-worker MTD subscription split, USD |
