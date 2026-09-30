@@ -15,7 +15,8 @@ Network workers (#462 and #463).
 
 | column | meaning |
 |---|---|
-| timestamp_utc | when the hourly run sampled the data |
+| timestamp_utc | when the hourly run sampled the data (UTC) |
+| timestamp_toronto | same moment in America/Toronto time (EDT/EST with DST handled) |
 | day_label | the in-progress day (e.g. "30 Sep 2026") |
 | today_total_usd | combined today earnings, USD (PAYG + subscription estimate) |
 | today_payg_usd | pay-as-you-go earnings today, USD (51% share) |
