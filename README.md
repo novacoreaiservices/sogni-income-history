@@ -22,6 +22,12 @@ Network workers (#462 and #463).
 | today_payg_usd | pay-as-you-go earnings today, USD (51% share) |
 | today_sub_usd | subscription/unlimited accrual today, USD |
 | today_total_cad | combined today earnings in CAD |
+| day_8pm_total_usd | combined earnings in the founder's day: 8pm Toronto to 8pm Toronto (during EDT this equals the UTC dashboard day exactly) |
+| day_8pm_payg_usd | PAYG portion of the 8pm-to-8pm day |
+| day_8pm_sub_usd | subscription portion of the 8pm-to-8pm day |
+| day_8pm_total_cad | 8pm-to-8pm day total in CAD |
+| month_forecast_usd | month-end projection: (8pm-day earnings / hours elapsed x 24) x days in month. Reads low early in the day until earnings accumulate |
+| month_forecast_cad | month-end projection in CAD |
 | fx_usdcad | mid-market FX rate used |
 | today_unlimited_units | Unlimited Spark units today |
 | yesterday_total_usd | previous closed day's combined total, USD |
