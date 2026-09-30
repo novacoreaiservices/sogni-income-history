@@ -1,38 +1,38 @@
 # Sogni Worker Monthly Income Statement — September 2026
 
 *Maintained by the twice-daily earnings task (7:50 AM / 7:50 PM ET). Updated only when numbers change.*
-*Last updated: 2026-09-30 17:58 UTC · FX: 1 USD = 1.418513 CAD*
+*Last updated: 2026-09-30 18:58 UTC · FX: 1 USD = 1.418513 CAD*
 
 ## September 2026 — month to date + month-end forecast
 
 | | USD | CAD |
 |---|---|---|
-| PAYG earnings (MTD actual) | 594.74 | 843.69 |
-| Subscription accrual (MTD estimate) | 418.49 | 593.64 |
-| Combined MTD | 1,013.23 | 1,437.28 |
-| **Forecast month-end total** | **1,021.79** | **1,449.43** |
+| PAYG earnings (MTD actual) | 595.12 | 844.19 |
+| Subscription accrual (MTD estimate) | 418.82 | 594.10 |
+| Combined MTD | 1,013.94 | 1,438.29 |
+| **Forecast month-end total** | **1,021.06** | **1,448.39** |
 
-*Subscription MTD from api.sogni.ai (418.49). 29 of 30 days closed, current day ~74.9% elapsed (~99.2% of month elapsed). Forecast = linear extrapolation (MTD ÷ elapsed fraction); prior forecast 1,022.94 — combined MTD grew only ~$0.27 while the month elapsed fraction rose, nudging the forecast down ~$1.15.*
+*Subscription MTD from api.sogni.ai (418.82). 29 of 30 days closed, current day ~79.1% elapsed (~99.3% of month elapsed). Forecast = linear extrapolation (MTD ÷ elapsed fraction); prior forecast 1,021.79 — combined MTD grew ~$0.71 while the month elapsed fraction rose, nudging the forecast down ~$0.73.*
 
-## Today (2026-09-30, in progress at 17:58 UTC, ~74.9% of day elapsed)
+## Today (2026-09-30, in progress at 18:58 UTC, ~79.1% of day elapsed)
 
 | | USD | CAD |
 |---|---|---|
-| PAYG (51% est.) | 5.49 | 7.79 |
-| Subscription accrual (pool-rate est.) | 19.97 | 28.33 |
-| **Combined** | **25.46** | **36.12** |
+| PAYG (51% est.) | 5.86 | 8.31 |
+| Subscription accrual (pool-rate est.) | 21.10 | 29.94 |
+| **Combined** | **26.96** | **38.25** |
 
 ## Subscription — per worker (September MTD)
 
 | Worker | Render units | USD |
 |---|---|---|
-| #462 | 436,818 | 222.13 |
-| #463 | 357,155 | 181.62 |
-| #467 | 27,424 | 13.95 |
-| #478 | 1,567 | 0.80 |
-| **Fleet total** | **822,963** | **418.49** |
+| #462 | 438,155 | 222.36 |
+| #463 | 358,121 | 181.74 |
+| #467 | 27,424 | 13.92 |
+| #478 | 1,567 | 0.79 |
+| **Fleet total** | **825,266** | **418.82** |
 
-*Fleet share: ~0.65% of pool. Pool: US$64,666.21 live estimate. Per-worker USD = pro-rata of fleet USD by units.*
+*Fleet share: ~0.65% of pool. Pool: US$64,669.15 live estimate. Per-worker USD = pro-rata of fleet USD by units.*
 
 ## Prior month
 
