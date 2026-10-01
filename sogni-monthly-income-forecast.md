@@ -1,34 +1,34 @@
 # Sogni Worker Monthly Income Statement — September 2026 (final) & October 2026
 
 *Maintained by the twice-daily earnings task (7:50 AM / 7:50 PM ET). Updated only when numbers change.*
-*Last updated: 2026-10-01 05:58 UTC · FX: 1 USD = 1.421278 CAD*
+*Last updated: 2026-10-01 06:58 UTC · FX: 1 USD = 1.421278 CAD*
 
 ## October 2026 — month to date + forecast (in progress)
 
 | | USD | CAD |
 |---|---|---|
 | PAYG earnings (MTD actual) | 0.50 | 0.71 |
-| Subscription accrual (provisional) | 5.19 | 7.38 |
-| Combined MTD | 5.69 | 8.09 |
+| Subscription accrual (provisional) | 6.35 | 9.03 |
+| Combined MTD | 6.85 | 9.73 |
 | **Forecast month-end total** | **provisional —** | **—** |
 
 *October's pool rate is not yet stable: at 01:01 UTC it read $0.204/unit on only ~1,626 units (the pool budget is allocated early and dilutes as the month fills). Accruals use September's final rate $0.0005023/unit and are marked provisional — the fetch script auto-falls-back while the new-month rate deviates >5× from the prior month's final rate. Pace-based projection is meaningless with ~17% of the day elapsed; the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765).*
 
-## Today (2026-10-01, in progress at 05:58 UTC, ~24.9% of day elapsed)
+## Today (2026-10-01, in progress at 06:58 UTC, ~29.1% of day elapsed)
 
 | | USD | CAD |
 |---|---|---|
 | PAYG (51% est.) | 0.50 | 0.71 |
-| Subscription accrual (pool-rate est., provisional) | 5.19 | 7.38 |
-| **Combined** | **5.69** | **8.09** |
+| Subscription accrual (pool-rate est., provisional) | 6.35 | 9.03 |
+| **Combined** | **6.85** | **9.73** |
 
 ## September 2026 — final (month closed)
 
 | | USD | CAD |
 |---|---|---|
 | PAYG earnings (MTD actual) | 596.59 | 847.92 |
-| Subscription accrual (final estimate) | 421.29 | 598.77 |
-| **Combined final** | **1,017.88** | **1,446.69** |
+| Subscription accrual (final estimate) | 421.21 | 598.66 |
+| **Combined final** | **1,017.80** | **1,446.58** |
 
 *Subscription is api.sogni.ai's estimatedPayoutUsd — still an estimate until revenue reconciles (~Nov 15 payout window). Closed-day Sep 30: PAYG $7.33 + subscription $27.64 = $34.98 (CA$49.71).*
 
@@ -36,13 +36,13 @@
 
 | Worker | Render units | USD |
 |---|---|---|
-| #462 | 445,836 | 223.94 |
-| #463 | 363,898 | 182.79 |
+| #462 | 445,836 | 223.90 |
+| #463 | 363,898 | 182.75 |
 | #467 | 27,424 | 13.77 |
 | #478 | 1,567 | 0.79 |
-| **Fleet total** | **838,724** | **421.29** |
+| **Fleet total** | **838,724** | **421.21** |
 
-*Fleet share: ~0.74% of pool. Pool: US$64,680.64 live estimate. Per-worker USD = pro-rata of fleet USD by units.*
+*Fleet share: ~0.78% of pool. Pool: US$64,668.81 live estimate. Per-worker USD = pro-rata of fleet USD by units.*
 
 ## Prior month
 
@@ -55,7 +55,7 @@
 ## Payout schedule
 
 - **August 2026** → ~US$139.95, USDC on Base, **Oct 16, 2026**
-- **September 2026** → ~US$1,017.88 (subscription ~$421.29 est. until reconciliation), USDC on Base, **Nov 15, 2026**
+- **September 2026** → ~US$1,017.80 (subscription ~$421.21 est. until reconciliation), USDC on Base, **Nov 15, 2026**
 - Destination: `0x0328...1f91`
 
 ## October 15 reconciliation (planned)
