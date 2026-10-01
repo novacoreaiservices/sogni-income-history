@@ -1,7 +1,7 @@
 # Sogni Worker Monthly Income Statement — September 2026 (final) & October 2026
 
 *Maintained by the twice-daily earnings task (7:50 AM / 7:50 PM ET). Updated only when numbers change.*
-*Last updated: 2026-10-01 21:58 UTC · FX: 1 USD = 1.421278 CAD*
+*Last updated: 2026-10-01 22:58 UTC · FX: 1 USD = 1.421278 CAD*
 
 ## October 2026 — month to date + forecast (in progress)
 
@@ -10,11 +10,11 @@
 | PAYG earnings (MTD actual) | 0.96 | 1.37 |
 | Subscription accrual (provisional) | 9.36 | 13.31 |
 | Combined MTD | 10.33 | 14.68 |
-| **Forecast month-end total (pace, provisional)** | **~350** | **~497** |
+| **Forecast month-end total (pace, provisional)** | **~335** | **~476** |
 
-*October's pool rate is not yet stable: at 01:01 UTC it read $0.204/unit on only ~1,626 units (the pool budget is allocated early and dilutes as the month fills). Accruals use September's final rate $0.0005023/unit and are marked provisional — the fetch script auto-falls-back while the new-month rate deviates >5× from the prior month's final rate. Pace projection at 91.58% of Oct 1 elapsed ($10.33 earned → ~$11.28/day pace → ~$350/mo) is a day-one read only; the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765).*
+*October's pool rate is not yet stable: at 01:01 UTC it read $0.204/unit on only ~1,626 units (the pool budget is allocated early and dilutes as the month fills). Accruals use September's final rate $0.0005023/unit and are marked provisional — the fetch script auto-falls-back while the new-month rate deviates >5× from the prior month's final rate. Pace projection at 95.74% of Oct 1 elapsed ($10.33 earned → ~$10.79/day pace → ~$335/mo) is a day-one read only; the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765).*
 
-## Today (2026-10-01, in progress at 21:58 UTC, ~91.58% of day elapsed)
+## Today (2026-10-01, in progress at 22:58 UTC, ~95.74% of day elapsed)
 
 | | USD | CAD |
 |---|---|---|
