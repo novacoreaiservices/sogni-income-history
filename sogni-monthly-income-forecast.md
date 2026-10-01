@@ -1,26 +1,26 @@
 # Sogni Worker Monthly Income Statement — September 2026 (final) & October 2026
 
 *Maintained by the twice-daily earnings task (7:50 AM / 7:50 PM ET). Updated only when numbers change.*
-*Last updated: 2026-10-01 03:58 UTC · FX: 1 USD = 1.421278 CAD*
+*Last updated: 2026-10-01 04:58 UTC · FX: 1 USD = 1.421278 CAD*
 
 ## October 2026 — month to date + forecast (in progress)
 
 | | USD | CAD |
 |---|---|---|
 | PAYG earnings (MTD actual) | 0.35 | 0.50 |
-| Subscription accrual (provisional) | 2.82 | 4.00 |
-| Combined MTD | 3.17 | 4.50 |
+| Subscription accrual (provisional) | 3.98 | 5.66 |
+| Combined MTD | 4.33 | 6.16 |
 | **Forecast month-end total** | **provisional —** | **—** |
 
 *October's pool rate is not yet stable: at 01:01 UTC it read $0.204/unit on only ~1,626 units (the pool budget is allocated early and dilutes as the month fills). Accruals use September's final rate $0.0005023/unit and are marked provisional — the fetch script auto-falls-back while the new-month rate deviates >5× from the prior month's final rate. Pace-based projection is meaningless with ~17% of the day elapsed; the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765).*
 
-## Today (2026-10-01, in progress at 03:58 UTC, ~16.6% of day elapsed)
+## Today (2026-10-01, in progress at 04:58 UTC, ~20.7% of day elapsed)
 
 | | USD | CAD |
 |---|---|---|
 | PAYG (51% est.) | 0.35 | 0.50 |
-| Subscription accrual (pool-rate est., provisional) | 2.82 | 4.00 |
-| **Combined** | **3.17** | **4.50** |
+| Subscription accrual (pool-rate est., provisional) | 3.98 | 5.66 |
+| **Combined** | **4.33** | **6.16** |
 
 ## September 2026 — final (month closed)
 
