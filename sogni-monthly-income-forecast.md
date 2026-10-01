@@ -1,38 +1,48 @@
-# Sogni Worker Monthly Income Statement — September 2026
+# Sogni Worker Monthly Income Statement — September 2026 (final) & October 2026
 
 *Maintained by the twice-daily earnings task (7:50 AM / 7:50 PM ET). Updated only when numbers change.*
-*Last updated: 2026-09-30 23:58 UTC · FX: 1 USD = 1.418513 CAD*
+*Last updated: 2026-10-01 01:01 UTC · FX: 1 USD = 1.421278 CAD*
 
-## September 2026 — month to date + month-end forecast
-
-| | USD | CAD |
-|---|---|---|
-| PAYG earnings (MTD actual) | 596.59 | 846.27 |
-| Subscription accrual (MTD estimate) | 421.27 | 597.58 |
-| Combined MTD | 1,017.86 | 1,443.85 |
-| **Forecast month-end total** | **1,017.91** | **1,443.91** |
-
-*Subscription MTD from api.sogni.ai (421.27). 29 of 30 days closed, current day ~99.9% elapsed (~99.996% of month elapsed). Forecast = linear extrapolation (MTD ÷ elapsed fraction); prior forecast 1,017.87 — PAYG MTD grew ~$0.19 and subscription ~$0.04 while the month elapsed fraction rose, nudging the forecast up ~$0.04.*
-
-## Today (2026-09-30, in progress at 23:58 UTC, ~99.9% of day elapsed)
+## October 2026 — month to date + forecast (in progress)
 
 | | USD | CAD |
 |---|---|---|
-| PAYG (51% est.) | 7.33 | 10.40 |
-| Subscription accrual (pool-rate est.) | 27.64 | 39.21 |
-| **Combined** | **34.98** | **49.62** |
+| PAYG earnings (MTD actual) | 0.07 | 0.10 |
+| Subscription accrual (provisional) | 0.82 | 1.16 |
+| Combined MTD | 0.89 | 1.27 |
+| **Forecast month-end total** | **provisional —** | **—** |
 
-## Subscription — per worker (September MTD)
+*October's pool rate is not yet stable: at 01:01 UTC it read $0.204/unit on only ~1,626 units (the pool budget is allocated early and dilutes as the month fills). Accruals use September's final rate $0.0005023/unit and are marked provisional — the fetch script auto-falls-back while the new-month rate deviates >5× from the prior month's final rate. Pace-based projection is meaningless with ~4% of the day elapsed; the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765).*
+
+## Today (2026-10-01, in progress at 01:01 UTC, ~4.2% of day elapsed)
+
+| | USD | CAD |
+|---|---|---|
+| PAYG (51% est.) | 0.07 | 0.10 |
+| Subscription accrual (pool-rate est., provisional) | 0.82 | 1.16 |
+| **Combined** | **0.89** | **1.27** |
+
+## September 2026 — final (month closed)
+
+| | USD | CAD |
+|---|---|---|
+| PAYG earnings (MTD actual) | 596.59 | 847.92 |
+| Subscription accrual (final estimate) | 421.27 | 598.75 |
+| **Combined final** | **1,017.86** | **1,446.66** |
+
+*Subscription is api.sogni.ai's estimatedPayoutUsd — still an estimate until revenue reconciles (~Nov 15 payout window). Closed-day Sep 30: PAYG $7.33 + subscription $27.64 = $34.98 (CA$49.71).*
+
+## Subscription — per worker (September final)
 
 | Worker | Render units | USD |
 |---|---|---|
-| #462 | 445,832 | 223.93 |
+| #462 | 445,836 | 223.93 |
 | #463 | 363,898 | 182.78 |
 | #467 | 27,424 | 13.77 |
 | #478 | 1,567 | 0.79 |
-| **Fleet total** | **838,720** | **421.27** |
+| **Fleet total** | **838,724** | **421.27** |
 
-*Fleet share: ~0.65% of pool. Pool: US$64,675.57 live estimate. Per-worker USD = pro-rata of fleet USD by units.*
+*Fleet share: ~0.65% of pool. Pool: US$64,678.20 live estimate. Per-worker USD = pro-rata of fleet USD by units.*
 
 ## Prior month
 
@@ -45,7 +55,7 @@
 ## Payout schedule
 
 - **August 2026** → ~US$139.95, USDC on Base, **Oct 16, 2026**
-- **September 2026** → forecast TBD, USDC on Base, **Nov 15, 2026**
+- **September 2026** → ~US$1,017.86 (subscription ~$421.27 est. until reconciliation), USDC on Base, **Nov 15, 2026**
 - Destination: `0x0328...1f91`
 
 ## October 15 reconciliation (planned)
@@ -69,6 +79,8 @@ variance in USD and %. Results will be recorded here.
 - PAYG "Est. Earnings USD (51%)" is the dashboard's estimate until finalized.
 - Pool-rate method: today's Unlimited Spark units × (September pool USD ÷
   total render units MTD). Assumes Unlimited Spark units map 1:1 to pool
-  render units.
+  render units. In the first days of a month the live pool rate is unstable
+  (tiny unit base), so accruals provisionally use the prior month's final
+  rate until the new rate settles.
 - CAD conversions use the mid-market rate noted above, refreshed each run.
 - Forecasts are projections, not settled payouts.
