@@ -1,7 +1,7 @@
 # Sogni Worker Monthly Income Statement — September 2026 (final) & October 2026
 
 *Maintained by the twice-daily earnings task (7:50 AM / 7:50 PM ET). Updated only when numbers change.*
-*Last updated: 2026-10-02 05:58 UTC · FX: 1 USD = 1.423249 CAD*
+*Last updated: 2026-10-02 06:58 UTC · FX: 1 USD = 1.423249 CAD*
 
 ## October 2026 — month to date + forecast (in progress)
 
@@ -14,7 +14,7 @@
 
 *October's pool rate is not yet stable: the new-month rate deviates >5× from September's final, so accruals provisionally use September's final rate $0.0005023/unit — the fetch script auto-falls-back until the new rate settles. Pace projection at ~1.17 of 31 days elapsed ($10.33 earned → ~$275/mo) is a day-one read only; the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765).*
 
-## Today (2026-10-02, in progress at 05:58 UTC, ~24.9% of day elapsed)
+## Today (2026-10-02, in progress at 06:58 UTC, ~29.1% of day elapsed)
 
 | | USD | CAD |
 |---|---|---|
@@ -22,15 +22,15 @@
 | Subscription accrual (pool-rate est., provisional) | 0.00 | 0.00 |
 | **Combined** | **0.00** | **0.00** |
 
-*No PAYG jobs and no Unlimited renders yet this UTC day; both workers idle, last jobs ~20.4 h ago (2026-10-01T09:35–09:37 UTC).*
+*No PAYG jobs and no Unlimited renders yet this UTC day; both workers idle, last jobs ~21.4 h ago (2026-10-01T09:35–09:37 UTC).*
 
 ## September 2026 — final (month closed)
 
 | | USD | CAD |
 |---|---|---|
 | PAYG earnings (MTD actual) | 596.59 | 847.92 |
-| Subscription accrual (final estimate) | 421.28 | 598.75 |
-| **Combined final** | **1,017.87** | **1,446.68** |
+| Subscription accrual (final estimate) | 421.23 | 599.52 |
+| **Combined final** | **1,017.82** | **1,447.44** |
 
 *Subscription is api.sogni.ai's estimatedPayoutUsd — still an estimate until revenue reconciles (~Nov 15 payout window). Closed-day Sep 30: PAYG $7.33 + subscription $27.64 = $34.98 (CA$49.71). Closed-day Oct 1: PAYG $0.96 + subscription $9.36 = $10.33 (CA$14.70).*
 
@@ -38,11 +38,11 @@
 
 | Worker | Render units | USD |
 |---|---|---|
-| #462 | 445,836 | 223.94 |
-| #463 | 363,898 | 182.78 |
+| #462 | 445,836 | 223.91 |
+| #463 | 363,898 | 182.76 |
 | #467 | 27,424 | 13.77 |
 | #478 | 1,567 | 0.79 |
-| **Fleet total** | **838,724** | **421.28** |
+| **Fleet total** | **838,724** | **421.23** |
 
 *Fleet share: ~0.65% of pool. Pool: US$64,678.65 live estimate. Per-worker USD = pro-rata of fleet USD by units.*
 
@@ -57,7 +57,7 @@
 ## Payout schedule
 
 - **August 2026** → ~US$139.95, USDC on Base, **Oct 16, 2026**
-- **September 2026** → ~US$1,017.87 (subscription ~$421.28 est. until reconciliation), USDC on Base, **Nov 15, 2026**
+- **September 2026** → ~US$1,017.82 (subscription ~$421.23 est. until reconciliation), USDC on Base, **Nov 15, 2026**
 - Destination: `0x0328...1f91`
 
 ## October 15 reconciliation (planned)
