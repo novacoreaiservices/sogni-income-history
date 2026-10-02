@@ -1,7 +1,7 @@
 # Sogni Worker Monthly Income Statement — September 2026 (final) & October 2026
 
 *Maintained by the twice-daily earnings task (7:50 AM / 7:50 PM ET). Updated only when numbers change.*
-*Last updated: 2026-10-02 21:58 UTC · FX: 1 USD = 1.423249 CAD*
+*Last updated: 2026-10-02 22:58 UTC · FX: 1 USD = 1.423249 CAD*
 
 ## October 2026 — month to date + forecast (in progress)
 
@@ -14,7 +14,7 @@
 
 *October's pool rate is not yet stable: the new-month rate deviates >5× from September's final, so accruals provisionally use September's final rate $0.0005023/unit — the fetch script auto-falls-back until the new rate settles. Pace projection at ~1.58 of 31 days elapsed ($10.33 earned → ~$200/mo) is a noisy day-two read only (day 2 so far $0); the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765).*
 
-## Today (2026-10-02, in progress at 21:58 UTC, ~91.6% of day elapsed)
+## Today (2026-10-02, in progress at 22:58 UTC, ~95.8% of day elapsed)
 
 | | USD | CAD |
 |---|---|---|
