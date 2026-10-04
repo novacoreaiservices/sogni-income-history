@@ -1,38 +1,40 @@
 # Sogni Worker Monthly Income Statement — September 2026 (final) & October 2026
 
 *Maintained by the twice-daily earnings task (7:50 AM / 7:50 PM ET). Updated only when numbers change.*
-*Last updated: 2026-10-02 23:58 UTC · FX: 1 USD = 1.423249 CAD*
+*Last updated: 2026-10-04 23:44 UTC · FX: 1 USD = 1.423858 CAD*
 
 ## October 2026 — month to date + forecast (in progress)
 
 | | USD | CAD |
 |---|---|---|
 | PAYG earnings (MTD actual) | 0.96 | 1.37 |
-| Subscription accrual (provisional) | 9.36 | 13.32 |
-| Combined MTD | 10.33 | 14.70 |
-| **Forecast month-end total (pace, provisional)** | **~200** | **~288** |
+| Subscription accrual (provisional) | 10.97 | 15.62 |
+| Combined MTD | 11.93 | 16.99 |
+| **Forecast month-end total (pace, provisional)** | **~93** | **~132** |
 
-*October's pool rate is not yet stable: the new-month rate deviates >5× from September's final, so accruals provisionally use September's final rate $0.0005023/unit — the fetch script auto-falls-back until the new rate settles. Pace projection at ~1.58 of 31 days elapsed ($10.33 earned → ~$200/mo) is a noisy day-two read only (day 2 so far $0); the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765).*
+*October's pool rate is not yet stable: the new-month rate deviates >5× from September's final, so accruals provisionally use September's final rate $0.0005023/unit — the fetch script auto-falls-back until the new rate settles. Pace projection at ~3.99 of 31 days elapsed ($11.93 earned → ~$93/mo) is a noisy read that includes 3 idle days (Oct 2, 3, and most of Oct 4 — workers back online ~6:40 PM EDT Oct 4); the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765).*
 
-## Today (2026-10-02, in progress at 23:58 UTC, ~99.9% of day elapsed)
+***October gap (user instruction 2026-10-04): workers #462/#463 were idle ~3 days (last jobs Oct 1 09:35–09:37 UTC, back online ~6:40 PM EDT Oct 4). Oct 2, 3, and most of Oct 4 earned ~$0 — 3 days of October will be missing from the month's totals.***
+
+## Today (2026-10-04, in progress at 23:44 UTC, ~98.9% of day elapsed)
 
 | | USD | CAD |
 |---|---|---|
 | PAYG (51% est.) | 0.00 | 0.00 |
-| Subscription accrual (pool-rate est., provisional) | 0.00 | 0.00 |
-| **Combined** | **0.00** | **0.00** |
+| Subscription accrual (pool-rate est., provisional) | 1.61 | 2.29 |
+| **Combined** | **1.61** | **2.29** |
 
-*No PAYG jobs and no Unlimited renders yet this UTC day; both workers idle, last jobs ~38.4 h ago (2026-10-01T09:35–09:37 UTC).* (23:58 UTC run)
+*Workers #462/#463 came back online ~6:40 PM EDT (~22:40 UTC) after ~3 days idle; 75 unlimited jobs and 3,208.24 unlimited spark units since return. No PAYG jobs yet this UTC day.* (19:44 ET / 23:44 UTC hourly run)
 
 ## September 2026 — final (month closed)
 
 | | USD | CAD |
 |---|---|---|
-| PAYG earnings (MTD actual) | 596.59 | 847.92 |
-| Subscription accrual (final estimate) | 421.27 | 599.58 |
-| **Combined final** | **1,017.86** | **1,447.50** |
+| PAYG earnings (MTD actual) | 596.59 | 849.55 |
+| Subscription accrual (final estimate) | 421.26 | 599.88 |
+| **Combined final** | **1,017.85** | **1,449.42** |
 
-*Subscription is api.sogni.ai's estimatedPayoutUsd — still an estimate until revenue reconciles (~Nov 15 payout window). Closed-day Sep 30: PAYG $7.33 + subscription $27.64 = $34.98 (CA$49.71). Closed-day Oct 1: PAYG $0.96 + subscription $9.36 = $10.33 (CA$14.70).*
+*Subscription is api.sogni.ai's estimatedPayoutUsd — still an estimate until revenue reconciles (~Nov 15 payout window). Closed-day Sep 30: PAYG $7.33 + subscription $27.64 = $34.98 (CA$49.81). Closed-day Oct 1: PAYG $0.96 + subscription $9.36 = $10.33 (CA$14.71). Closed-day Oct 2: $0.00 — workers idle all day. Closed-day Oct 3: $0.00 — workers still idle. Oct 4 in progress (23:44 UTC sample): PAYG $0.00 + subscription $1.61 = $1.61 (CA$2.29) — workers back online ~22:40 UTC.*
 
 ## Subscription — per worker (September final)
 
@@ -42,9 +44,9 @@
 | #463 | 363,898 | 182.77 |
 | #467 | 27,424 | 13.77 |
 | #478 | 1,567 | 0.79 |
-| **Fleet total** | **838,724** | **421.27** |
+| **Fleet total** | **838,724** | **421.26** |
 
-*Fleet share: ~0.19% of pool. Pool: US$64,676.78 live estimate. Per-worker USD = pro-rata of fleet USD by units.*
+*Fleet share: ~0.19% of pool. Pool: US$64,676.65 live estimate (11:50 UTC read; was $64,676.76 at 23:50 UTC). Per-worker USD = pro-rata of fleet USD by units.*
 
 ## Prior month
 
@@ -57,7 +59,7 @@
 ## Payout schedule
 
 - **August 2026** → ~US$139.95, USDC on Base, **Oct 16, 2026**
-- **September 2026** → ~US$1,017.86 (subscription ~$421.27 est. until reconciliation), USDC on Base, **Nov 15, 2026**
+- **September 2026** → ~US$1,017.85 (subscription ~$421.26 est. until reconciliation), USDC on Base, **Nov 15, 2026**
 - Destination: `0x0328...1f91`
 
 ## October 15 reconciliation (planned)
