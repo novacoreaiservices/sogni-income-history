@@ -1,0 +1,13 @@
+rig,nft,component,part,detail,confirmed,notes
+x870,462,motherboard,ASUS TUF Gaming X870,"AM5, DDR5",yes,TUF series marketed on military-grade capacitors/MOSFETs
+x870,462,CPU,AMD Ryzen 9 9900X,"Zen 5, 12C/24T, TjMax 95C",yes,
+x870,462,RAM,G.Skill DDR5 96GB,89.8GB usable per OS; DIMM temps via spd5118,yes,
+x870,462,GPU,NVIDIA RTX 5090,575W TDP; 12V-2x6 connector,yes,AIB vs Founders Edition unknown
+x870,462,PSU,EVGA 1200W,model unverified,user-recollection,verify exact model when convenient
+x870,462,storage,NVMe SSD,make/model/capacity unknown,user-recollection,
+x570,463,motherboard,ASRock X570 Phantom Gaming 4,"AM4, DDR4; board has a small chipset fan (wear item)",yes,
+x570,463,CPU,AMD Ryzen 5 3600,"Zen 2, 6C/12T, launched 2019, TjMax 95C",yes,
+x570,463,RAM,DDR4 64GB,60.7GB usable; no DIMM temp sensors,yes,brand unknown
+x570,463,GPU,NVIDIA RTX 5090,575W TDP; 12V-2x6 connector,yes,AIB vs Founders Edition unknown
+x570,463,PSU,1200W PSU,brand unknown,user-recollection,verify brand/model when convenient
+x570,463,storage,NVMe SSD,make/model/capacity unknown,user-recollection,
