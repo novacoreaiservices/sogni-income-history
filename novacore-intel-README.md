@@ -34,19 +34,41 @@ the pace forecast; a watchdog anomaly flag in 24h; a worker silent stall in
 7 days; a GPU thermal-throttle event in 7 days; September payout within ±10%
 of estimate; SOGNI ±20% in 30 days (+ directional USD-earnings impact note).
 
+### hardware-inventory.csv
+User-supplied exact part list (2026-10-04; PSU brands are the user's best
+recollection, marked `user-recollection`, not confirmed). Columns: rig, nft,
+component, part, detail, confirmed (yes / user-recollection), notes.
+
 ### hardware-risk.csv
 TypeSafe Noul wear-and-tear failure probabilities per component per rig over
-30/90/365-day horizons, grounded in deterministic thermal signals computed
-first: time-above-threshold, >10°C thermal-swing count, fan duty-cycle
-averages, sustained power vs 575W TDP. Columns: timestamp_utc, component,
-rig, nft, age_months, hours_observed, pct_time_above_warm, thermal_cycles,
-risk_30d, risk_90d, risk_365d, confidence_0_1, notes.
+30/90/365-day horizons. Components are the EXACT parts from
+hardware-inventory.csv plus known wear sub-items the inventory implies:
+the RTX 5090's **12V-2x6 power connector** (documented 2025 melt history —
+partial seating + sharp bends under 400W+ sustained load; seating state is
+unobserved, so the assessment recommends a physical check), motherboard
+**VRM** (no direct sensors; inferred from CPU thermals), and the ASRock X570
+board's small **chipset fan** (a documented X570 wear item: dust + bearing
+wear → chipset overheat → PCIe instability).
+
+Each Jev question carries component-specific reliability knowledge: RTX 5090
+connector melt history and mitigations; Ryzen 9 9900X running hot by design
+(Zen 5, 84C under load is normal); Ryzen 5 3600 maturity (Zen 2, 2019,
+well-understood, low power); EVGA SuperNOVA 24/7 reputation (hedged —
+brand unconfirmed); X570 chipset-fan wear; DDR5 vs DDR4 module reliability;
+NVMe endurance under a read-heavy inference workload. Deterministic thermal
+signals are computed first per component: time-above-threshold, >10°C
+thermal-swing count, fan duty-cycle averages, sustained power vs 575W TDP.
+
+Columns: timestamp_utc, component, rig, nft, age_months, hours_observed,
+pct_time_above_warm, thermal_cycles, risk_30d, risk_90d, risk_365d,
+confidence_0_1, notes.
 
 **Honesty rule:** rigs are ~2 months old (ops began Aug 2026) and the thermal
 baseline is only ~4 hours (tracker started 2026-10-04). confidence_0_1 is
 0.25 by rule for every hardware-risk row, and notes say the baseline is
-thin. x570 DDR risk is unobservable (DDR4 has no DIMM sensors) — those rows
-are prior-only. PSU risk is inferred (no PSU sensors) from GPU power draw.
+thin. x570 DDR4 risk is unobservable (no DIMM sensors) — those rows are
+prior-only. PSU rows are load-headroom assessments (no PSU sensors); the
+x870 EVGA brand is unconfirmed recollection.
 
 ## Caveats
 - The sensor history starts 2026-10-04 ~19:38 EDT; anything "thermal" before
