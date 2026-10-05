@@ -1,42 +1,42 @@
 # Sogni Worker Monthly Income Statement — September 2026 (final) & October 2026
 
 *Maintained by the twice-daily earnings task (7:50 AM / 7:50 PM ET). Updated only when numbers change.*
-*Last updated: 2026-10-05 12:44 UTC · FX: 1 USD = 1.42482 CAD*
+*Last updated: 2026-10-05 13:44 UTC · FX: 1 USD = 1.42482 CAD*
 
 ## October 2026 — month to date + forecast (in progress)
 
 | | USD | CAD |
 |---|---|---|
-| PAYG earnings (MTD actual) | 1.44 | 2.05 |
-| Subscription accrual (Oct live estimate) | 15.07 | 21.47 |
-| Combined MTD | 16.51 | 23.52 |
-| **Forecast month-end total (pace)** | **~113** | **~161** |
+| PAYG earnings (MTD actual) | 1.55 | 2.21 |
+| Subscription accrual (Oct projected rate) | 16.00 | 22.80 |
+| Combined MTD | 17.55 | 25.00 |
+| **Forecast month-end total (pace)** | **~119** | **~170** |
 
-*The October pool rate switched on Oct 5 ~12:44 UTC from the inflated dashboard-display raw rate (~$0.0023475/unit, ~6.9× too high early in the month because the leaderboard pairs full-month revenue with month-to-date spark) to the projected rate ~$0.0003431/unit (pool $62,338 ÷ projected 181.7M spark — auditor-validated, TypeSafe Jev 0.92/0.99, user-approved switch). October MTD before Oct 5 was overstated on the dashboard-display basis. Pace projection at ~4.53 of 31 days elapsed ($16.51 earned → ~$113/mo) is noisy and includes the 3 idle days (Oct 2, 3, and most of Oct 4 — workers back online ~6:40 PM EDT Oct 4); the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765). Season 12 started Oct 5 00:00 UTC — worker rewards increasingly funded by market-bought SOGNI; watch for rate drift through the month.*
+*The October pool rate switched on Oct 5 ~12:44 UTC from the inflated dashboard-display raw rate (~$0.0023475/unit, ~6.9× too high early in the month because the leaderboard pairs full-month revenue with month-to-date spark) to the projected rate ~$0.0003431/unit (pool $62,338 ÷ projected 181.7M spark — auditor-validated, TypeSafe Jev 0.92/0.99, user-approved switch). October MTD before Oct 5 was overstated on the dashboard-display basis. Pace projection at ~4.57 of 31 days elapsed ($17.55 earned → ~$119/mo) is noisy and includes the 3 idle days (Oct 2, 3, and most of Oct 4 — workers back online ~6:40 PM EDT Oct 4); the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765). Season 12 started Oct 5 00:00 UTC — worker rewards increasingly funded by market-bought SOGNI; watch for rate drift through the month.*
 
 ***October gap (user instruction 2026-10-04): workers #462/#463 were idle ~3 days (last jobs Oct 1 09:35–09:37 UTC, back online ~6:40 PM EDT Oct 4). Oct 2, 3, and most of Oct 4 earned ~$0 — 3 days of October will be missing from the month's totals.***
 
-## October 2026 — subscription per worker (MTD, 12:44 UTC)
+## October 2026 — subscription per worker (MTD, 13:44 UTC)
 
 | Worker | Render units | USD |
 |---|---|---|
-| #462 | 27,632 | 9.48 |
-| #463 | 16,278 | 5.59 |
+| #462 | 29,204 | 10.04 |
+| #463 | 17,331 | 5.96 |
 | #467 | 0 | 0.00 |
 | #478 | 0 | 0.00 |
-| **Fleet total** | **43,911** | **15.07** |
+| **Fleet total** | **46,535** | **16.00** |
 
-*Fleet share: ~0.17% of pool. Pool: US$62,337.78 live estimate (12:44 UTC read). Per-worker USD = pro-rata of fleet USD by units. Oct 2–4 units are near-zero because of the idle gap; Oct 5 is the first full day back.*
+*Fleet share: ~0.17% of pool. Pool: US$62,530.83 live estimate (13:44 UTC read). Per-worker USD = pro-rata of fleet USD by units. Oct 2–4 units are near-zero because of the idle gap; Oct 5 is the first full day back.*
 
-## Today (2026-10-05, in progress at 12:44 UTC, ~12.7h into the 8pm–8pm Toronto day)
+## Today (2026-10-05, in progress at 13:44 UTC, ~13.7h into the 8pm–8pm Toronto day)
 
 | | USD | CAD |
 |---|---|---|
-| PAYG (51% est.) | 0.47 | 0.68 |
-| Subscription accrual (Oct projected rate $0.0003431/unit) | 7.37 | 10.50 |
-| **Combined** | **7.85** | **11.18** |
+| PAYG (51% est.) | 0.59 | 0.84 |
+| Subscription accrual (Oct projected rate $0.0003437/unit) | 8.29 | 11.81 |
+| **Combined** | **8.88** | **12.65** |
 
-*Workers #462/#463 still online after ~6:40 PM EDT Oct 4 restart; 549 unlimited jobs and 21,485.15 unlimited spark units plus 31 PAYG jobs (1,769.03 SOGNI tokens) since the accounting day rolled over.* (12:44 UTC hourly run)
+*Workers #462/#463 online; 577 unlimited jobs and 24,109.91 unlimited spark units plus 36 PAYG jobs (2,195.15 SOGNI tokens) since the accounting day rolled over.*
 
 ## September 2026 — final (month closed)
 
@@ -72,6 +72,7 @@
 
 - **August 2026** → ~US$139.95, USDC on Base, **Oct 16, 2026**
 - **September 2026** → ~US$1,017.93 (subscription ~$421.34 est. until reconciliation), USDC on Base, **Nov 15, 2026**
+- **October 2026** → USDC on Base, **Dec 16, 2026** (confirmed on dashboard subscription tab 2026-10-05)
 - Destination: `0x0328...1f91`
 
 ## October 15 reconciliation (planned)
