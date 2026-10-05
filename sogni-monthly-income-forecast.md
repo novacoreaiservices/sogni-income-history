@@ -1,30 +1,42 @@
 # Sogni Worker Monthly Income Statement — September 2026 (final) & October 2026
 
 *Maintained by the twice-daily earnings task (7:50 AM / 7:50 PM ET). Updated only when numbers change.*
-*Last updated: 2026-10-05 11:44 UTC · FX: 1 USD = 1.42482 CAD*
+*Last updated: 2026-10-05 12:44 UTC · FX: 1 USD = 1.42482 CAD*
 
 ## October 2026 — month to date + forecast (in progress)
 
 | | USD | CAD |
 |---|---|---|
-| PAYG earnings (MTD actual) | 1.33 | 1.90 |
-| Subscription accrual (Oct live estimate) | 99.54 | 141.83 |
-| Combined MTD | 100.87 | 143.73 |
-| **Forecast month-end total (pace)** | **~697** | **~993** |
+| PAYG earnings (MTD actual) | 1.44 | 2.05 |
+| Subscription accrual (Oct live estimate) | 15.07 | 21.47 |
+| Combined MTD | 16.51 | 23.52 |
+| **Forecast month-end total (pace)** | **~113** | **~161** |
 
-*The October pool rate is now ~$0.0023662/unit (≈4.71× September's final $0.0005023) — inside the 5× guard band, so the pipeline uses the live October rate rather than the provisional September fallback. Pace projection at ~4.49 of 31 days elapsed ($100.87 earned → ~$697/mo) is noisy and includes the 3 idle days (Oct 2, 3, and most of Oct 4 — workers back online ~6:40 PM EDT Oct 4); the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765). Season 12 started Oct 5 00:00 UTC — worker rewards increasingly funded by market-bought SOGNI; watch for rate drift through the month.*
+*The October pool rate switched on Oct 5 ~12:44 UTC from the inflated dashboard-display raw rate (~$0.0023475/unit, ~6.9× too high early in the month because the leaderboard pairs full-month revenue with month-to-date spark) to the projected rate ~$0.0003431/unit (pool $62,338 ÷ projected 181.7M spark — auditor-validated, TypeSafe Jev 0.92/0.99, user-approved switch). October MTD before Oct 5 was overstated on the dashboard-display basis. Pace projection at ~4.53 of 31 days elapsed ($16.51 earned → ~$113/mo) is noisy and includes the 3 idle days (Oct 2, 3, and most of Oct 4 — workers back online ~6:40 PM EDT Oct 4); the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765). Season 12 started Oct 5 00:00 UTC — worker rewards increasingly funded by market-bought SOGNI; watch for rate drift through the month.*
 
 ***October gap (user instruction 2026-10-04): workers #462/#463 were idle ~3 days (last jobs Oct 1 09:35–09:37 UTC, back online ~6:40 PM EDT Oct 4). Oct 2, 3, and most of Oct 4 earned ~$0 — 3 days of October will be missing from the month's totals.***
 
-## Today (2026-10-05, in progress at 11:44 UTC, ~11.7h into the 8pm–8pm Toronto day)
+## October 2026 — subscription per worker (MTD, 12:44 UTC)
+
+| Worker | Render units | USD |
+|---|---|---|
+| #462 | 27,632 | 9.48 |
+| #463 | 16,278 | 5.59 |
+| #467 | 0 | 0.00 |
+| #478 | 0 | 0.00 |
+| **Fleet total** | **43,911** | **15.07** |
+
+*Fleet share: ~0.17% of pool. Pool: US$62,337.78 live estimate (12:44 UTC read). Per-worker USD = pro-rata of fleet USD by units. Oct 2–4 units are near-zero because of the idle gap; Oct 5 is the first full day back.*
+
+## Today (2026-10-05, in progress at 12:44 UTC, ~12.7h into the 8pm–8pm Toronto day)
 
 | | USD | CAD |
 |---|---|---|
-| PAYG (51% est.) | 0.37 | 0.53 |
-| Subscription accrual (Oct live rate $0.0023662/unit) | 46.47 | 66.22 |
-| **Combined** | **46.85** | **66.75** |
+| PAYG (51% est.) | 0.47 | 0.68 |
+| Subscription accrual (Oct projected rate $0.0003431/unit) | 7.37 | 10.50 |
+| **Combined** | **7.85** | **11.18** |
 
-*Workers #462/#463 still online after ~6:40 PM EDT Oct 4 restart; 517 unlimited jobs and 19,641 unlimited spark units plus 30 PAYG jobs (1,383.31 SOGNI tokens) since the accounting day rolled over.* (11:44 UTC hourly run)
+*Workers #462/#463 still online after ~6:40 PM EDT Oct 4 restart; 549 unlimited jobs and 21,485.15 unlimited spark units plus 31 PAYG jobs (1,769.03 SOGNI tokens) since the accounting day rolled over.* (12:44 UTC hourly run)
 
 ## September 2026 — final (month closed)
 
@@ -34,7 +46,7 @@
 | Subscription accrual (final estimate) | 421.34 | 599.89 |
 | **Combined final** | **1,017.93** | **1,449.39** |
 
-*Subscription is api.sogni.ai's estimatedPayoutUsd — still an estimate until revenue reconciles (~Nov 15 payout window). Closed-day Sep 30: PAYG $7.33 + subscription $27.64 = $34.98 (CA$49.81). Closed-day Oct 1: PAYG $0.96 + subscription $9.36 = $10.33 (CA$14.71). Closed-day Oct 2: $0.00 — workers idle all day. Closed-day Oct 3: $0.00 — workers still idle. Closed-day Oct 4: PAYG $0.00 + subscription $1.90 = $1.90 (CA$2.71) — workers back online ~22:40 UTC. Oct 5 in progress (11:44 UTC sample): PAYG $0.37 + subscription $46.47 = $46.85 (CA$66.75).*
+*Subscription is api.sogni.ai's estimatedPayoutUsd — still an estimate until revenue reconciles (~Nov 15 payout window). Closed-day Sep 30: PAYG $7.33 + subscription $27.64 = $34.98 (CA$49.81). Closed-day Oct 1: PAYG $0.96 + subscription $9.36 = $10.33 (CA$14.71). Closed-day Oct 2: $0.00 — workers idle all day. Closed-day Oct 3: $0.00 — workers still idle. Closed-day Oct 4: PAYG $0.00 + subscription $1.90 = $1.90 (CA$2.71) — workers back online ~22:40 UTC. Oct 5 in progress (12:44 UTC sample): PAYG $0.47 + subscription $7.37 = $7.85 (CA$11.18) — first sample on the new projected pool-rate basis; Oct 1–4 accrual figures above are on the prior inflated dashboard-display basis.*
 
 ## Subscription — per worker (September final)
 
@@ -81,10 +93,13 @@ variance in USD and %. Results will be recorded here.
 - Subscription figures are live estimates until month close; the pool $/unit
   drifts as the month progresses.
 - PAYG "Est. Earnings USD (51%)" is the dashboard's estimate until finalized.
-- Pool-rate method: today's Unlimited Spark units × (September pool USD ÷
+- Pool-rate method: today's Unlimited Spark units × (October pool USD ÷
   total render units MTD). Assumes Unlimited Spark units map 1:1 to pool
-  render units. In the first days of a month the live pool rate is unstable
-  (tiny unit base), so accruals provisionally use the prior month's final
-  rate until the new rate settles.
+  render units. Early in a month the leaderboard's raw rate is inflated
+  (it pairs full-month revenue with month-to-date spark), so since
+  Oct 5 ~12:44 UTC the pipeline uses the projected rate = pool USD ÷
+  (total render spark ÷ elapsed fraction of the UTC month), with the 5×
+  guard applied to the projected rate. Figures before Oct 5 12:44 UTC
+  were on the inflated dashboard-display basis (~6.9× too high).
 - CAD conversions use the mid-market rate noted above, refreshed each run.
 - Forecasts are projections, not settled payouts.
