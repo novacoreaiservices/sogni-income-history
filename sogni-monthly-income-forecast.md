@@ -1,42 +1,42 @@
 # Sogni Worker Monthly Income Statement — September 2026 (final) & October 2026
 
 *Maintained by the twice-daily earnings task (7:50 AM / 7:50 PM ET). Updated only when numbers change.*
-*Last updated: 2026-10-06 06:44 UTC · FX: 1 USD = 1.425621 CAD*
+*Last updated: 2026-10-06 08:44 UTC · FX: 1 USD = 1.425621 CAD*
 
 ## October 2026 — month to date + forecast (in progress)
 
 | | USD | CAD |
 |---|---|---|
-| PAYG earnings (MTD actual) | 2.67 | 3.81 |
-| Subscription accrual (Oct projected rate) | 28.06 | 40.00 |
-| Combined MTD | 30.73 | 43.81 |
-| **Forecast month-end total (pace)** | **~180** | **~257** |
+| PAYG earnings (MTD actual) | 3.69 | 5.26 |
+| Subscription accrual (Oct projected rate) | 31.96 | 45.56 |
+| Combined MTD | 35.65 | 50.82 |
+| **Forecast month-end total (pace)** | **~206** | **~294** |
 
-*The October pool rate switched on Oct 5 ~12:44 UTC from the inflated dashboard-display raw rate (~$0.0023475/unit, ~6.9× too high early in the month because the leaderboard pairs full-month revenue with month-to-date spark) to the projected rate ~$0.0003454/unit (pool $64,352 ÷ projected 186,314,541 spark — auditor-validated, TypeSafe Jev 0.92/0.99, user-approved switch). October MTD before Oct 5 was overstated on the dashboard-display basis. Pace projection at ~5.3 of 31 days elapsed ($30.73 earned → ~$180/mo) is noisy and includes the 3 idle days (Oct 2, 3, and most of Oct 4 — workers back online ~6:40 PM EDT Oct 4); the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765). Season 12 started Oct 5 00:00 UTC — worker rewards increasingly funded by market-bought SOGNI; watch for rate drift through the month.*
+*The October pool rate switched on Oct 5 ~12:44 UTC from the inflated dashboard-display raw rate (~$0.0023475/unit, ~6.9× too high early in the month because the leaderboard pairs full-month revenue with month-to-date spark) to the projected rate ~$0.0003470/unit (pool $64,631 ÷ projected 186,255,566 spark — auditor-validated, TypeSafe Jev 0.92/0.99, user-approved switch). October MTD before Oct 5 was overstated on the dashboard-display basis. Pace projection at ~5.4 of 31 days elapsed ($35.65 earned → ~$206/mo) is noisy and includes the 3 idle days (Oct 2, 3, and most of Oct 4 — workers back online ~6:40 PM EDT Oct 4); the independent October outlook from the 2026-09-30 earnings audit is base case ~$945 (PAYG ~$177 + subscription ~$765). Season 12 started Oct 5 00:00 UTC — worker rewards increasingly funded by market-bought SOGNI; watch for rate drift through the month.*
 
 ***October gap (user instruction 2026-10-04): workers #462/#463 were idle ~3 days (last jobs Oct 1 09:35–09:37 UTC, back online ~6:40 PM EDT Oct 4). Oct 2, 3, and most of Oct 4 earned ~$0 — 3 days of October will be missing from the month's totals.***
 
-## October 2026 — subscription per worker (MTD, 06:44 UTC)
+## October 2026 — subscription per worker (MTD, 08:44 UTC)
 
 | Worker | Render units | USD | CAD |
 |---|---|---|---|
-| #462 | 53,172 | 18.37 | 26.19 |
-| #463 | 35,808 | 12.37 | 17.63 |
+| #462 | 55,130 | 19.13 | 27.27 |
+| #463 | 36,960 | 12.83 | 18.29 |
 | #467 | 0 | 0.00 | 0.00 |
 | #478 | 0 | 0.00 | 0.00 |
-| **Fleet total** | **88,980** | **30.73** | **43.81** |
+| **Fleet total** | **92,090** | **31.96** | **45.56** |
 
-*Fleet share: ~0.28% of pool. Pool: US$64,351.68 live estimate (06:44 UTC read). Per-worker USD = pro-rata of fleet USD by units. Oct 2–4 units are near-zero because of the idle gap; Oct 5 is the first full day back.*
+*Fleet share: ~0.29% of pool. Pool: US$64,631.31 live estimate (08:44 UTC read). Per-worker USD = pro-rata of fleet USD by units. Oct 2–4 units are near-zero because of the idle gap; Oct 5 is the first full day back.*
 
-## Today (2026-10-06, in progress at 06:44 UTC, ~6.7h into the 8pm–8pm Toronto day)
+## Today (2026-10-06, in progress at 08:44 UTC, ~8.7h into the 8pm–8pm Toronto day)
 
 | | USD | CAD |
 |---|---|---|
-| PAYG (51% est.) | 0.34 | 0.49 |
-| Subscription accrual (Oct projected rate $0.0003454/unit) | 4.96 | 7.07 |
-| **Combined** | **5.30** | **7.56** |
+| PAYG (51% est.) | 1.36 | 1.94 |
+| Subscription accrual (Oct projected rate $0.0003470/unit) | 6.06 | 8.64 |
+| **Combined** | **7.42** | **10.58** |
 
-*Workers #462/#463 online; 223 unlimited jobs and 14,358.54 unlimited spark units since the accounting day rolled over (30 PAYG jobs, 51% est $0.34).*
+*Workers #462/#463 online; 336 unlimited jobs and 17,468.44 unlimited spark units since the accounting day rolled over (51 PAYG jobs, 51% est $1.36).*
 
 ## September 2026 — final (month closed)
 
@@ -46,7 +46,7 @@
 | Subscription accrual (final estimate) | 421.34 | 599.89 |
 | **Combined final** | **1,017.93** | **1,449.39** |
 
-*Subscription is api.sogni.ai's estimatedPayoutUsd — still an estimate until revenue reconciles (~Nov 15 payout window). Closed-day Sep 30: PAYG $7.33 + subscription $27.64 = $34.98 (CA$49.81). Closed-day Oct 1: PAYG $0.96 + subscription $9.36 = $10.33 (CA$14.71). Closed-day Oct 2: $0.00 — workers idle all day. Closed-day Oct 3: $0.00 — workers still idle. Closed-day Oct 4: PAYG $0.00 + subscription $1.90 = $1.90 (CA$2.71) — workers back online ~22:40 UTC. Oct 5 in progress (23:50 UTC sample): PAYG $1.36 + subscription $17.75 = $19.12 (CA$27.24) — on the new projected pool-rate basis; Oct 1–4 accrual figures above are on the prior inflated dashboard-display basis. Closed-day Oct 5 (final, 00:44 UTC sample): PAYG $1.36 + subscription $17.97 = $19.33 (CA$27.56) — first full day back after the idle gap. Oct 6 in progress (04:44 UTC): PAYG $0.19 + subscription $3.66 = $3.85 (CA$5.49). Oct 6 in progress (05:44 UTC): PAYG $0.34 + subscription $4.28 = $4.62 (CA$6.59). Oct 6 in progress (06:44 UTC): PAYG $0.34 + subscription $4.96 = $5.30 (CA$7.56).*
+*Subscription is api.sogni.ai's estimatedPayoutUsd — still an estimate until revenue reconciles (~Nov 15 payout window). Closed-day Sep 30: PAYG $7.33 + subscription $27.64 = $34.98 (CA$49.81). Closed-day Oct 1: PAYG $0.96 + subscription $9.36 = $10.33 (CA$14.71). Closed-day Oct 2: $0.00 — workers idle all day. Closed-day Oct 3: $0.00 — workers still idle. Closed-day Oct 4: PAYG $0.00 + subscription $1.90 = $1.90 (CA$2.71) — workers back online ~22:40 UTC. Oct 5 in progress (23:50 UTC sample): PAYG $1.36 + subscription $17.75 = $19.12 (CA$27.24) — on the new projected pool-rate basis; Oct 1–4 accrual figures above are on the prior inflated dashboard-display basis. Closed-day Oct 5 (final, 00:44 UTC sample): PAYG $1.36 + subscription $17.97 = $19.33 (CA$27.56) — first full day back after the idle gap. Oct 6 in progress (04:44 UTC): PAYG $0.19 + subscription $3.66 = $3.85 (CA$5.49). Oct 6 in progress (05:44 UTC): PAYG $0.34 + subscription $4.28 = $4.62 (CA$6.59). Oct 6 in progress (06:44 UTC): PAYG $0.34 + subscription $4.96 = $5.30 (CA$7.56). Oct 6 in progress (07:44 UTC): PAYG $0.77 + subscription $5.41 = $6.19 (CA$8.82). Oct 6 in progress (08:44 UTC): PAYG $1.36 + subscription $6.06 = $7.42 (CA$10.58).*
 
 ## Subscription — per worker (September final)
 
