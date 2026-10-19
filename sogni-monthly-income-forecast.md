@@ -1,18 +1,18 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-10-19 11:44 EDT (Oct 19 accounting day, 11.7h in).
+Updated 2026-10-19 12:44 EDT (Oct 19 accounting day, 12.7h in).
 
 ## Month to date (October 2026)
 
-- Subscription (est.): US$387.84 / CA$548.08
-- PAYG (est.): US$52.01 / CA$73.50
-- Combined: US$439.85 / CA$621.58
-- Subscription render units: 819,993
-- Per worker MTD: #462 US$213.03, #463 US$155.94
+- Subscription (est.): US$389.09 / CA$549.85
+- PAYG (est.): US$52.16 / CA$73.71
+- Combined: US$441.25 / CA$623.56
+- Subscription render units: 822,504
+- Per worker MTD: #462 US$213.63, #463 US$156.48
 
 ## Today in progress (closes 8pm ET Oct 19)
 
-- PAYG US$2.78, subscription US$21.98, total US$24.75 / CA$34.98
+- PAYG US$2.93, subscription US$23.17, total US$26.09 / CA$36.87
 
 ## Yesterday closed (Oct 18)
 
@@ -20,7 +20,7 @@ Updated 2026-10-19 11:44 EDT (Oct 19 accounting day, 11.7h in).
 
 ## Month-end forecast (working-day pace)
 
-- ~US$810 / ~CA$1,145 (working-day pace; accounts for the Oct 2-4 idle gap; recomputed at the 11:44 run)
+- ~US$805 / ~CA$1,138 (working-day pace; accounts for the Oct 2-4 idle gap; recomputed at the 12:44 run)
 
 Subscription earnings are pool-rate estimates until finalized; payouts settle ~45 days after month-end in USDC on Base.
 
