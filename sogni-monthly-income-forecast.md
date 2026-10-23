@@ -1,18 +1,18 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-10-23 16:44 EDT (Oct 23 accounting day, ~20.7h in; closes 8pm ET Oct 23). FX: 1 USD = 1.401351 CAD.
+Updated 2026-10-23 17:44 EDT (Oct 23 accounting day, ~21.7h in; closes 8pm ET Oct 23). FX: 1 USD = 1.401351 CAD.
 
 ## Month to date (October 2026)
 
-- Subscription (est.): US$551.59 / CA$772.97
-- PAYG (est.): US$63.45 / CA$88.92
-- Combined: US$615.04 / CA$861.89
-- Subscription render units: 1,113,826
-- Per worker MTD: #462 US$293.76, #463 US$218.98
+- Subscription (est.): US$553.29 / CA$775.35
+- PAYG (est.): US$63.56 / CA$89.07
+- Combined: US$616.85 / CA$864.42
+- Subscription render units: 1,116,793
+- Per worker MTD: #462 US$294.43, #463 US$219.77
 
 ## Today in progress (closes 8pm ET Oct 23)
 
-- PAYG US$1.33, subscription US$30.41, total US$31.73 / CA$44.47
+- PAYG US$1.44, subscription US$31.89, total US$33.33 / CA$46.70
 
 ## Yesterday closed (Oct 22)
 
@@ -20,7 +20,7 @@ Updated 2026-10-23 16:44 EDT (Oct 23 accounting day, ~20.7h in; closes 8pm ET Oc
 
 ## Month-end forecast (working-day pace)
 
-- ~US$836 / ~CA$1,172 (working-day pace; accounts for the Oct 2-4 idle gap; recomputed at the 16:44 run: dashboard sub projection of US$747.87 from the live pool-rate basis, plus ~US$88 PAYG at current pace: 63.45 MTD + 3.12/day × 8 remaining days)
+- ~US$837 / ~CA$1,173 (working-day pace; accounts for the Oct 2-4 idle gap; recomputed at the 17:44 run: dashboard sub projection of US$748.81 from the live pool-rate basis, plus ~US$89 PAYG at current pace: 63.56 MTD + 3.12/day × 8 remaining days)
 
 Subscription earnings are pool-rate estimates until finalized; payouts settle ~45 days after month-end in USDC on Base.
 
