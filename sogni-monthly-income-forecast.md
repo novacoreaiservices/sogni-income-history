@@ -1,30 +1,30 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-10-28 23:44 UTC (Oct 28 accounting day in progress). FX: 1 USD = 1.404056 CAD.
+Updated 2026-10-29 00:44 UTC (Oct 29 accounting day in progress). FX: 1 USD = 1.401824 CAD.
 
 ## Month to date (October 2026)
 
-- Subscription (est.): US$740.34 / CA$1,039.48
-- PAYG (est.): US$75.98 / CA$106.68
-- Combined: US$816.32 / CA$1,146.16
-- Subscription render units: 1,474,737
-- Per worker MTD: #462 US$384.96, #463 US$291.59, #478 US$63.79
+- Subscription (est.): US$741.65 / CA$1,039.66
+- PAYG (est.): US$76.10 / CA$106.68
+- Combined: US$817.75 / CA$1,146.34
+- Subscription render units: 1,477,372
+- Per worker MTD: #462 US$385.46, #463 US$292.25, #478 US$63.95
 
-## Yesterday closed (Oct 27) — final capture
+## Yesterday closed (Oct 28) — final capture
+
+- PAYG US$1.61, subscription US$30.47, total US$32.07 / CA$45.03
+
+## Oct 27 (day before)
 
 - PAYG US$2.48, subscription US$36.73, total US$39.22 / CA$55.06
 
-## Oct 26 (day before)
+## Today in progress (Oct 29)
 
-- PAYG US$1.67, subscription US$37.39, total US$39.06 / CA$54.84
-
-## Today in progress (Oct 28)
-
-- PAYG US$1.61, subscription US$30.07, total US$31.68 / CA$44.48 (new day in progress — 23h 44m in, low figures expected)
+- PAYG US$0.11, subscription US$0.93, total US$1.05 / CA$1.47 (new day just started — small figures expected)
 
 ## Month-end forecast (working-day pace)
 
-- ~US$900 / ~CA$1,264 (working-day pace; accounts for the Oct 2-4 idle gap; recomputed at the 23:44 run: subscription pace of ~US$820 from the live pool-rate basis — US$740.34 MTD — plus ~US$81 PAYG at current pace: 75.98 MTD + ~1.67/day × 3.0 remaining days)
+- ~US$901 / ~CA$1,263 (working-day pace; accounts for the Oct 2-4 idle gap; recomputed at the 00:44 run: subscription pace of ~US$820 from the live pool-rate basis — US$741.65 MTD — plus ~US$81 PAYG at current pace: 76.10 MTD + ~1.67/day × 3.0 remaining days)
 
 Subscription earnings are pool-rate estimates until finalized; payouts settle ~45 days after month-end in USDC on Base.
 
