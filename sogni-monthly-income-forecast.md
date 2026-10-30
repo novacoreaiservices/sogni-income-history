@@ -1,30 +1,30 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-10-29 23:44 UTC (Oct 29 accounting day in progress). FX: 1 USD = 1.401824 CAD.
+Updated 2026-10-30 00:44 UTC. FX: 1 USD = 1.398868 CAD.
 
 ## Month to date (October 2026)
 
-- Subscription (est.): US$773.26 / CA$1,083.97
-- PAYG (est.): US$79.06 / CA$110.83
-- Combined: US$852.32 / CA$1,194.79
-- Subscription render units: 1,544,247
-- Per worker MTD: #462 US$401.16, #463 US$304.27, #478 US$67.83
+- Subscription (est.): US$774.52 / CA$1,083.45
+- PAYG (est.): US$79.29 / CA$110.92
+- Combined: US$853.81 / CA$1,194.37
+- Subscription render units: 1,546,862
+- Per worker MTD: #462 US$401.98, #463 US$304.63, #478 US$67.91
 
-## Yesterday closed (Oct 28) — final capture
+## Yesterday closed (Oct 29) — final capture
 
-- PAYG US$1.61, subscription US$30.39, total US$31.99 / CA$44.85
+- PAYG US$3.11, subscription US$34.65, total US$37.76 / CA$52.82
 
-## Oct 27 (day before)
+## Oct 28 (day before)
 
-- PAYG US$2.48, subscription US$36.63, total US$39.12 / CA$54.84
+- PAYG US$1.61, subscription US$30.39, total US$31.99 / CA$44.75
 
-## Today in progress (Oct 29)
+## Today in progress (Oct 30, new day — small figures expected)
 
-- PAYG US$3.08, subscription US$34.42, total US$37.49 / CA$52.56 (Oct 29 day in progress — small figures expected)
+- PAYG US$0.20, subscription US$1.07, total US$1.28 / CA$1.79
 
 ## Month-end forecast (working-day pace)
 
-- ~US$913 / ~CA$1,280 (working-day pace; accounts for the Oct 2-4 idle gap; recomputed at the 23:44 run: subscription pace of ~US$827 from the live pool-rate basis — US$773.26 MTD — plus ~US$86 PAYG at current pace: 79.06 MTD + ~3.11/day × ~2.1 remaining days)
+- ~US$912 / ~CA$1,276 (working-day pace; accounts for the Oct 2-4 idle gap; recomputed at the 00:44 run: subscription pace of ~US$827 from the live pool-rate basis — US$774.52 MTD — plus ~US$85 PAYG at current pace: 79.29 MTD + ~3.04/day × ~2.0 remaining days)
 
 Subscription earnings are pool-rate estimates until finalized; payouts settle ~45 days after month-end in USDC on Base.
 
