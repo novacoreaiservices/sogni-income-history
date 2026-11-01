@@ -10,19 +10,20 @@ Updated 2026-11-01 05:44 UTC. FX: 1 USD = 1.396255 CAD.
 - Subscription render units: 15,262
 - Per worker MTD: #462 US$2.18 (7,765 units), #463 US$1.66 (5,936), #478 US$0.44 (1,561)
 
-## October 2026 — final (estimates)
+## October 2026 — final (estimates, CORRECTED 2026-11-01)
 
-- Subscription (est.): US$834.38 / CA$1,165.30
+- Subscription (est.): US$852.67 / CA$1,191.86
 - PAYG (est.): US$85.82 / CA$119.86
-- Combined: US$920.20 / CA$1,285.15
+- Combined: US$938.49 / CA$1,311.72
 - Subscription render units: 1,675,961
-- Per worker MTD: #462 US$432.08, #463 US$327.76, #478 US$74.54
+- Per worker MTD: #462 US$432.08, #463 US$327.76, #478 US$74.54 (Oct 31 re-valued at October's rate; per-worker split unchanged)
 - Captured at the 23:44 UTC Oct 31 run (final October day figures; subscription is a pool-rate estimate, not finalized)
+- Correction 2026-11-01: Oct 31 subscription was US$16.25 on November's early rate; re-valued to US$34.54 on October's final rate (0.0004979). October total corrected from US$920.20 to US$938.49.
 
-## Yesterday closed (Oct 31) — final capture
+## Yesterday closed (Oct 31) — final capture (CORRECTED 2026-11-01)
 
-- PAYG US$2.21, subscription US$16.25, total US$18.46 / CA$25.78
-- Note: subscription valued at November's early projected pool rate (0.0002342/unit) since the month rolled over mid-capture — an early estimate, will settle as November's pool develops. At the pre-close run (23:44 UTC) the same day was US$36.31 on October's pool rate.
+- PAYG US$2.21, subscription US$34.54, total US$36.75 / CA$51.38
+- Correction: subscription re-valued at October's final pool rate (0.0004979/unit) since all 69,380 units were earned in October. The earlier US$18.46 figure used November's immature early rate (0.0002342/unit) due to month rollover mid-capture — that was a valuation error, now fixed.
 
 ## Oct 30 (day before, frozen)
 
