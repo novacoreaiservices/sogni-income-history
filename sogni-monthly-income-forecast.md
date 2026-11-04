@@ -1,22 +1,22 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-11-03 23:44 UTC. FX: 1 USD = 1.39809 CAD.
+Updated 2026-11-04 00:44 UTC. FX: 1 USD = 1.39809 CAD.
 
 ## Month to date (November 2026)
 
-- Subscription (est.): US$62.71 / CA$87.67
-- PAYG (est.): US$7.54 / CA$10.54
-- Combined: US$70.25 / CA$98.22
-- Subscription render units: 213,625
-- Per worker MTD: #462 US$31.54 (107,453 units), #463 US$24.32 (82,852), #478 US$6.85 (23,320)
+- Subscription (est.): US$63.81 / CA$89.21
+- PAYG (est.): US$7.64 / CA$10.68
+- Combined: US$71.45 / CA$99.89
+- Subscription render units: 217,093
+- Per worker MTD: #462 US$32.01 (108,903 units), #463 US$24.82 (84,449), #478 US$6.98 (23,741)
 
-## Yesterday closed (Nov 2)
+## Yesterday closed (Nov 3)
 
-- PAYG US$2.88, subscription US$20.84, total US$23.71 / CA$33.15 (captured 06:44 UTC)
+- PAYG US$2.04, subscription US$21.57, total US$23.61 / CA$33.01 (captured 00:44 UTC)
 
-## Nov 1 (day before, frozen)
+## Nov 2 (day before, frozen)
 
-- PAYG US$2.63, subscription US$18.76, total US$21.39 / CA$29.88 (captured 2026-11-02; frozen per the no-recompute rule)
+- PAYG US$2.88, subscription US$20.84, total US$23.71 / CA$33.15 (captured 06:44 UTC; frozen per the no-recompute rule)
 
 ## October 2026 — final (estimates, CORRECTED 2026-11-01)
 
@@ -37,13 +37,13 @@ Updated 2026-11-03 23:44 UTC. FX: 1 USD = 1.39809 CAD.
 
 - PAYG US$4.51, subscription US$31.26, total US$35.77 / CA$49.96 (captured 2026-10-31; frozen per the no-recompute rule)
 
-## Today in progress (Nov 3)
+## Today in progress (Nov 4)
 
-- PAYG US$2.04, subscription US$21.18, total US$23.22 / CA$32.46 (captured 23:44 UTC)
+- PAYG US$0.10, subscription US$0.66, total US$0.76 / CA$1.06 (captured 00:44 UTC)
 
 ## November month-end forecast
 
-- Too early: third day of the month, November's pool is still forming (US$72,039 vs October's US$102,921; projected rate 0.0002936/unit). Forecast starts once the pool rate stabilizes.
+- Too early: fourth day of the month, November's pool is still forming (US$72,168 vs October's US$102,921; projected rate 0.0002939/unit). Forecast starts once the pool rate stabilizes.
 
 ## Payout schedule
 
