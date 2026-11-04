@@ -38,6 +38,14 @@ Network workers (#462 and #463).
 | month_usd | month-to-date subscription earnings, USD (live estimate) |
 | month_units | month-to-date render units |
 | w462_mtd_usd / w463_mtd_usd | per-worker MTD subscription split, USD |
+| pool_rate_usd_per_unit | Sogni monthly pool rate actually in use, USD per render unit (full precision) |
+| pool_rate_basis | "projected" (open month: pool USD ÷ projected full-month spark) or "final" (settled/closed-month rate) |
+| worker_pool_usd | full-month worker pool payout, USD |
+| network_total_render_spark | network-wide month-to-date render spark (totalRenderSpark) |
+| month_elapsed_frac | fraction of the UTC month elapsed at sampling (0–1) |
+| pool_as_of_utc | when the pool snapshot was taken (UTC) |
+| pool_live_month | pool month the rate applies to (YYYY-MM) |
+| prev_month_final_rate | prior month's settled pool rate, USD/unit (context only) |
 
 ## Methodology notes
 
@@ -47,3 +55,22 @@ Network workers (#462 and #463).
   units; the daily unit figure may cover only one worker; the pool rate drifts
   until month close.
 - Payouts land ~45 days after month-end in USDC on Base.
+
+## Pool rate (columns appended 2026-11-03)
+
+The subscription accrual uses the payout-accurate pool rate, persisted per row
+so "$/day" averages are never computed by mixing one month's final rate with
+another month's projected rate.
+
+- `elapsed_frac = (asOf − monthStart) / (monthEnd − monthStart)` — UTC month.
+- `projected_rate_usd_per_unit = workerPoolUsd / (totalRenderSpark / elapsed_frac)`
+- When the month is finalized: `final_rate_usd_per_unit = workerPoolUsd / totalRenderSpark`.
+- The rate in use prefers final when available, else projected. The mid-month
+  "live" rate shown on the Sogni dashboard (full-month pool USD ÷ MTD spark
+  only) is diagnostic and is NEVER used for accruals.
+
+Reference: October 2026 final/settled rate ≈ **0.0004973 USD/unit**
+(API-derived 0.00049733). Late-October fleet pace at that rate was
+~US$37–39/day (~CA$52–55/day at FX≈1.40). Early-November projected rates
+(~0.00029) belong to a different month — do not mix them when labeling
+"$50/day" style averages.
