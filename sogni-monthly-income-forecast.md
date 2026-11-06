@@ -1,26 +1,26 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-11-05 23:44 UTC. FX: 1 USD = 1.396719 CAD.
+Updated 2026-11-06 00:44 UTC. FX: 1 USD = 1.396719 CAD.
 
 ## Month to date (November 2026)
 
-- Subscription (est.): US$109.70 / CA$153.22
-- PAYG (est.): US$10.93 / CA$15.27
-- Combined: US$120.63 / CA$168.49
-- Subscription render units: 348,100
-- Per worker MTD: #462 US$55.47 (176,031 units), #463 US$42.66 (135,382), #478 US$11.56 (36,687)
+- Subscription (est.): US$110.69 / CA$154.60
+- PAYG (est.): US$11.02 / CA$15.39
+- Combined: US$121.71 / CA$169.99
+- Subscription render units: 350,956
+- Per worker MTD: #462 US$55.96 (177,432 units), #463 US$43.05 (136,512), #478 US$11.67 (37,012)
 
-## Yesterday closed (Nov 4)
+## Yesterday closed (Nov 5)
+
+- PAYG US$1.84, subscription US$20.83, total US$22.66 / CA$31.65 (captured 00:44 UTC; day frozen)
+
+## Nov 4 (day before, frozen)
 
 - PAYG US$1.61, subscription US$21.05, total US$22.66 / CA$31.71 (captured 00:44 UTC; day frozen)
 
 ## Nov 3 (day before, frozen)
 
 - PAYG US$2.04, subscription US$21.57, total US$23.61 / CA$33.04 (final capture 01:05 UTC; day frozen)
-
-## Nov 2 (day before, frozen)
-
-- PAYG US$2.88, subscription US$20.84, total US$23.71 / CA$33.15 (captured 06:44 UTC; frozen per the no-recompute rule)
 
 ## October 2026 — final (estimates, CORRECTED 2026-11-01)
 
@@ -41,13 +41,13 @@ Updated 2026-11-05 23:44 UTC. FX: 1 USD = 1.396719 CAD.
 
 - PAYG US$4.51, subscription US$31.26, total US$35.77 / CA$49.96 (captured 2026-10-31; frozen per the no-recompute rule)
 
-## Today in progress (Nov 5)
+## Today in progress (Nov 6)
 
-- PAYG US$1.78, subscription US$20.58, total US$22.35 / CA$31.22 (captured 23:44 UTC; day in progress)
+- PAYG US$0.03, subscription US$0.67, total US$0.70 / CA$0.97 (captured 00:44 UTC; day in progress)
 
 ## November month-end forecast
 
-- Too early: fifth day of the month, November's pool is still forming (US$76,934 vs October's US$102,921; projected rate 0.0003151/unit). Forecast starts once the pool rate stabilizes.
+- Too early: sixth day of the month, November's pool is still forming (US$77,005 vs October's US$102,921; projected rate 0.0003154/unit). Forecast starts once the pool rate stabilizes.
 
 ## Payout schedule
 
