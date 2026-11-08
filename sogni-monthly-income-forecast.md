@@ -1,18 +1,18 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-11-08 04:44 UTC. FX: 1 USD = 1.409364 CAD.
+Updated 2026-11-08 05:44 UTC. FX: 1 USD = 1.409364 CAD.
 
 ## Month to date (November 2026)
 
-- Subscription (est.): US$125.00 / CA$176.17
-- PAYG (est.): US$67.65 / CA$95.34
-- Combined: US$192.65 / CA$271.51
+- Subscription (est.): US$125.22 / CA$176.48
+- PAYG (est.): US$68.73 / CA$96.86
+- Combined: US$193.95 / CA$273.35
 - Subscription render units: 358,448
-- Per worker MTD: #462 US$63.32 (181,582 units), #463 US$48.54 (139,174), #478 US$13.14 (37,692)
+- Per worker MTD: #462 US$63.43 (181,582 units), #463 US$48.62 (139,174), #478 US$13.17 (37,692)
 
 ## Yesterday closed (Nov 7)
 
-- PAYG US$27.70, subscription US$0.00, total US$27.70 / CA$39.04 (captured 03:44 UTC; day frozen; PAYG-only extended through Nov 7 by user decision — sub $0 is deliberate, not an anomaly)
+- PAYG US$27.70, subscription US$0.00, total US$27.70 / CA$39.04 (captured 05:44 UTC; day frozen; PAYG-only extended through Nov 7 by user decision — sub $0 is deliberate, not an anomaly)
 
 ## Nov 6 (day before, frozen)
 
@@ -24,7 +24,7 @@ Updated 2026-11-08 04:44 UTC. FX: 1 USD = 1.409364 CAD.
 
 ## Today in progress (Nov 8)
 
-- PAYG US$3.49, subscription US$0.00, total US$3.49 / CA$4.92 (captured 04:44 UTC; day in progress, only ~4h 44m in; PAYG-only extended to Nov 8 per his Nov 7 decision — sub $0 expected)
+- PAYG US$4.57, subscription US$0.00, total US$4.57 / CA$6.44 (captured 05:44 UTC; day in progress, only ~5h 44m in; PAYG-only extended to Nov 8 per his Nov 7 decision — sub $0 expected)
 
 ## October 2026 — final (estimates, CORRECTED 2026-11-01)
 
@@ -47,7 +47,7 @@ Updated 2026-11-08 04:44 UTC. FX: 1 USD = 1.409364 CAD.
 
 ## November month-end forecast
 
-- Too early: eighth day of the month, November's pool is still forming (US$84,480 vs October's US$102,921; projected rate 0.0003487/unit). Forecast starts once the pool rate stabilizes.
+- Too early: eighth day of the month, November's pool is still forming (US$84,591 vs October's US$102,921; projected rate 0.0003493/unit). Forecast starts once the pool rate stabilizes.
 
 ## Payout schedule
 
