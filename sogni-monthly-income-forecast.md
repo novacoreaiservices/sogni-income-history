@@ -1,18 +1,18 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-11-10 00:56 UTC. FX: 1 USD = 1.411571 CAD.
+Updated 2026-11-10 01:56 UTC. FX: 1 USD = 1.411275 CAD.
 
 ## Month to date (November 2026)
 
-- Subscription (est.): US$133.41 / CA$188.32
-- PAYG (est.): US$139.15 / CA$196.42
-- Combined: US$272.56 / CA$384.74
+- Subscription (est.): US$133.53 / CA$188.45
+- PAYG (est.): US$139.83 / CA$197.34
+- Combined: US$273.36 / CA$385.79
 - Subscription render units: 358,448
-- Per worker MTD: #462 US$67.58 (181,582 units), #463 US$51.80 (139,174), #478 US$14.03 (37,692)
+- Per worker MTD: #462 US$67.64 (181,582 units), #463 US$51.84 (139,174), #478 US$14.04 (37,692)
 
 ## Yesterday closed (Nov 9)
 
-- PAYG US$39.92, subscription US$0.00, total US$39.92 / CA$56.35 (captured 00:56 UTC; day frozen; PAYG-only extended through Nov 9 by user decision — sub $0 is deliberate, not an anomaly)
+- PAYG US$39.92, subscription US$0.00, total US$39.92 / CA$56.34 (captured 01:05 UTC; day frozen; PAYG-only extended through Nov 9 by user decision — sub $0 is deliberate, not an anomaly)
 
 ## Yesterday closed (Nov 8)
 
@@ -32,7 +32,7 @@ Updated 2026-11-10 00:56 UTC. FX: 1 USD = 1.411571 CAD.
 
 ## Today in progress (Nov 10)
 
-- PAYG US$1.26, subscription US$0.00, total US$1.26 / CA$1.78 (captured 00:56 UTC; day ~3.9% in; PAYG-only continues — sub $0 expected)
+- PAYG US$1.94, subscription US$0.00, total US$1.94 / CA$2.74 (captured 01:56 UTC; day ~8.1% in; PAYG-only continues — sub $0 expected)
 
 ## October 2026 — final (estimates, CORRECTED 2026-11-01)
 
@@ -55,7 +55,7 @@ Updated 2026-11-10 00:56 UTC. FX: 1 USD = 1.411571 CAD.
 
 ## November month-end forecast
 
-- Too early: tenth day of the month, November's pool is still forming (US$90,607 vs October's US$102,921; projected rate 0.0003722/unit). Forecast starts once the pool rate stabilizes.
+- Too early: tenth day of the month, November's pool is still forming (US$90,693 vs October's US$102,921; projected rate 0.0003725/unit). Forecast starts once the pool rate stabilizes.
 
 ## Payout schedule
 
