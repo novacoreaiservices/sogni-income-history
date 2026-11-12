@@ -5,8 +5,8 @@ Updated 2026-11-12 15:57 UTC. FX: 1 USD = 1.423964 CAD.
 ## Month to date (November 2026)
 
 - Subscription (est.): US$142.35 / CA$202.70
-- PAYG (est.): US$223.12 / CA$317.71
-- Combined: US$365.47 / CA$520.42
+- PAYG (est.): US$223.13 / CA$317.73
+- Combined: US$365.48 / CA$520.44
 - Subscription render units: 358,448
 - Per worker MTD: #462 US$72.11 (181,582 units), #463 US$55.27 (139,174), #478 US$14.97 (37,692)
 
