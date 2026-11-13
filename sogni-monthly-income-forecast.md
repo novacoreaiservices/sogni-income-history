@@ -1,14 +1,14 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-11-13 00:56 UTC. FX: 1 USD = 1.42563 CAD.
+Updated 2026-11-13 01:56 UTC. FX: 1 USD = 1.42563 CAD.
 
 ## Month to date (November 2026)
 
-- Subscription (est.): US$143.16 / CA$204.09
-- PAYG (est.): US$238.22 / CA$339.61
-- Combined: US$381.38 / CA$543.71
+- Subscription (est.): US$143.27 / CA$204.25
+- PAYG (est.): US$239.46 / CA$341.38
+- Combined: US$382.73 / CA$545.63
 - Subscription render units: 358,448
-- Per worker MTD: #462 US$72.52 (181,582 units), #463 US$55.59 (139,174), #478 US$15.05 (37,692)
+- Per worker MTD: #462 US$72.58 (181,582 units), #463 US$55.63 (139,174), #478 US$15.07 (37,692)
 
 ## Yesterday closed (Nov 12)
 
@@ -44,7 +44,7 @@ Updated 2026-11-13 00:56 UTC. FX: 1 USD = 1.42563 CAD.
 
 ## Today in progress (Nov 13)
 
-- PAYG US$0.90, subscription US$0.00, total US$0.90 / CA$1.28 (captured 00:56 UTC; day ~3.9% in; PAYG-only continues — sub $0 expected)
+- PAYG US$2.13, subscription US$0.00, total US$2.13 / CA$3.04 (captured 01:56 UTC; day ~8.1% in; PAYG-only continues — sub $0 expected)
 
 ## October 2026 — final (estimates, CORRECTED 2026-11-01)
 
@@ -67,7 +67,7 @@ Updated 2026-11-13 00:56 UTC. FX: 1 USD = 1.42563 CAD.
 
 ## November month-end forecast
 
-- Pace-based projection (Nov 13, 00:56 UTC; 40.1% of month elapsed): subscription ~US$357 / CA$509, PAYG ~US$594 / CA$846, combined ~US$950 / CA$1,355. Assumes PAYG-only continues and the projected pool rate (0.0003994/unit) holds; November's pool is still forming (US$98,069 vs October's US$102,921 final pool), so the rate — and the projection — can still move.
+- Pace-based projection (Nov 13, 01:56 UTC; 40.3% of month elapsed): subscription ~US$356 / CA$507, PAYG ~US$711 / CA$1,014, combined ~US$1,067 / CA$1,521. Assumes PAYG-only continues and the projected pool rate (0.0003997/unit) holds; November's pool is still forming (US$98,139 vs October's US$102,921 final pool), so the rate — and the projection — can still move. (PAYG pace is extrapolated from only ~8% of today so far, so the PAYG leg is noisier than usual this hour.)
 
 ## Payout schedule
 
