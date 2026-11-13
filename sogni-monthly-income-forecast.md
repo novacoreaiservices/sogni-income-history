@@ -1,14 +1,14 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-11-13 21:56 UTC. FX: 1 USD = 1.42563 CAD.
+Updated 2026-11-13 22:56 UTC. FX: 1 USD = 1.42563 CAD.
 
 ## Month to date (November 2026)
 
-- Subscription (est.): US$145.80 / CA$207.86
-- PAYG (est.): US$267.70 / CA$381.64
-- Combined: US$413.50 / CA$589.50
+- Subscription (est.): US$145.85 / CA$207.93
+- PAYG (est.): US$270.09 / CA$385.05
+- Combined: US$415.94 / CA$592.98
 - Subscription render units: 358,448
-- Per worker MTD: #462 US$73.86 (181,582 units), #463 US$56.61 (139,174), #478 US$15.33 (37,692)
+- Per worker MTD: #462 US$73.88 (181,582 units), #463 US$56.63 (139,174), #478 US$15.34 (37,692)
 
 ## Yesterday closed (Nov 12)
 
@@ -44,7 +44,7 @@ Updated 2026-11-13 21:56 UTC. FX: 1 USD = 1.42563 CAD.
 
 ## Today in progress (Nov 13)
 
-- PAYG US$30.38, subscription US$0.00, total US$30.38 / CA$43.31 (captured 21:56 UTC; day ~91.4% in; PAYG-only continues — sub $0 expected)
+- PAYG US$32.77, subscription US$0.00, total US$32.77 / CA$46.71 (captured 22:56 UTC; day ~95.6% in; PAYG-only continues — sub $0 expected)
 
 ## October 2026 — final (estimates, CORRECTED 2026-11-01)
 
@@ -67,7 +67,7 @@ Updated 2026-11-13 21:56 UTC. FX: 1 USD = 1.42563 CAD.
 
 ## November month-end forecast
 
-- Pace-based projection (Nov 13, 21:56 UTC; 43.0% of month elapsed): subscription ~US$339 / CA$483, PAYG ~US$835 / CA$1,190, combined ~US$1,174 / CA$1,674. Assumes PAYG-only continues and the projected pool rate (0.0004068/unit) holds; November's pool is still forming (US$100,204 vs October's US$102,921 final pool), so the rate — and the projection — can still move. (PAYG pace is extrapolated from only ~91% of today so far, so the PAYG leg is noisier than usual this hour.)
+- Pace-based projection (Nov 13, 22:56 UTC; 43.2% of month elapsed): subscription ~US$338 / CA$482, PAYG ~US$625 / CA$891, combined ~US$963 / CA$1,373. Assumes PAYG-only continues and the projected pool rate (0.0004069/unit) holds; November's pool is still forming (US$100,275 vs October's US$102,921 final pool), so the rate — and the projection — can still move. (PAYG pace is extrapolated from only ~96% of today so far, so the PAYG leg is noisier than usual this hour.)
 
 ## Payout schedule
 
