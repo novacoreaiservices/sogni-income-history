@@ -1,14 +1,14 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-11-16 13:56 UTC. FX: 1 USD = 1.426617 CAD.
+Updated 2026-11-16 19:58 UTC. FX: 1 USD = 1.426617 CAD.
 
 ## Month to date (November 2026)
 
-- Subscription (est.): US$153.36 / CA$218.79
-- PAYG (est.): US$364.51 / CA$520.02
-- Combined: US$517.87 / CA$738.81
+- Subscription (est.): US$153.71 / CA$219.29
+- PAYG (est.): US$372.59 / CA$531.54
+- Combined: US$526.30 / CA$750.83
 - Subscription render units: 358,448
-- Per worker MTD: #462 US$77.69 (181,582 units), #463 US$59.54 (139,174), #478 US$16.13 (37,692)
+- Per worker MTD: #462 US$77.87 (181,582 units), #463 US$59.68 (139,174), #478 US$16.16 (37,692)
 
 ## Yesterday closed (Nov 15)
 
@@ -56,7 +56,7 @@ Updated 2026-11-16 13:56 UTC. FX: 1 USD = 1.426617 CAD.
 
 ## Today in progress (Nov 16)
 
-- PAYG US$20.72, subscription US$0.00, total US$20.72 / CA$29.56 (captured 13:56 UTC; day ~58.1% in; PAYG-only continues — sub $0 expected)
+- PAYG US$28.80, subscription US$0.00, total US$28.80 / CA$41.09 (captured 19:58 UTC; day ~83.2% in; PAYG-only continues — sub $0 expected)
 
 ## October 2026 — final (estimates, CORRECTED 2026-11-01)
 
@@ -79,12 +79,20 @@ Updated 2026-11-16 13:56 UTC. FX: 1 USD = 1.426617 CAD.
 
 ## November month-end forecast
 
-- Pace-based projection (Nov 16, 13:56 UTC; 51.9% of month elapsed): subscription ~US$295 / CA$421, PAYG ~US$702 / CA$1,001, combined ~US$997 / CA$1,422. Assumes PAYG-only continues and the projected pool rate (0.0004278/unit) holds; November's pool is still forming (US$106,148 vs October's US$102,921 final pool), so the rate — and the projection — can still move.
+- Pace-based projection (Nov 16, 19:58 UTC; 52.8% of month elapsed): subscription ~US$291 / CA$415, PAYG ~US$706 / CA$1,007, combined ~US$997 / CA$1,422. Assumes PAYG-only continues and the projected pool rate (0.0004288/unit) holds; November's pool is still forming (US$106,710 vs October's US$102,921 final pool), so the rate — and the projection — can still move.
+
+## November 15 reconciliation (checked 2026-11-16 09:00 EST — dashboard.sogni.ai/subscription-earnings)
+
+- **September 2026 subscription: NOT finalized.** Dashboard still shows "Open", ~US$412.49 EST., payout "Not yet finalized — November 15, 2026". No USDC payout has landed and no exact ledger figure exists yet. **Reconciliation PENDING — do not treat the estimate as final.** Re-check once September finalizes.
+- Forecast vs current live estimate (subscription only): forecast US$421.41 vs live estimate ~US$412.49 → −US$8.92 (−2.1%) so far — estimate-vs-estimate, not final variance.
+- Per-worker live estimates: #462 ~US$219.27 (forecast US$223.97), #463 ~US$178.97 (forecast US$182.80), #467 ~US$13.49 (forecast US$13.78), #478 ~US$0.77 (forecast US$0.79). Units unchanged: 838,724 fleet (0.65% share).
+- PAYG is not part of this payout (accrues as SOGNI); September PAYG forecast US$595.12–596.53.
+- August cross-check (finalized): August subscription finalized at US$123.16, paid as 123.164658 USDC (tx 0xb0df18025a2ba3741235dc379f592d14c1073004e801562b93eabff2e6ad94b9, Oct 17, 2026 09:05 UTC — not Oct 16 as previously recorded) vs forecast US$139.94 → −US$16.78 (−12.0%). Per-worker finalized: #462 US$65.46, #463 US$57.11, #467 US$0.60; #478 not listed. The August shortfall suggests September's finalized figure may also land below its estimate.
 
 ## Payout schedule
 
-- August: completed 2026-10-17
-- September: ~US$421.41 est., finalized Nov 16 2026 09:00 America/Toronto, pays ~Nov 15, 2026; USDC on Base
+- August: completed 2026-10-17 (123.164658 USDC; finalized US$123.16 vs US$139.94 forecast)
+- September: ~US$421.41 est. (live estimate now ~US$412.49), NOT finalized as of Nov 16 09:00 EST check; payout scheduled Nov 15, 2026 not yet landed; USDC on Base
 - October: pays ~Dec 16, 2026
 
 Subscription earnings are pool-rate estimates until finalized; payouts settle ~45 days after month-end in USDC on Base.
