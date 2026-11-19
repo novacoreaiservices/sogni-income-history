@@ -1,14 +1,14 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-11-19 00:58 UTC. FX: 1 USD = 1.43216 CAD.
+Updated 2026-11-19 01:59 UTC. FX: 1 USD = 1.43216 CAD.
 
 ## Month to date (November 2026)
 
-- Subscription (est.): US$156.62 / CA$224.30
-- PAYG (est.): US$449.06 / CA$643.13
-- Combined: US$605.68 / CA$867.43
+- Subscription (est.): US$156.67 / CA$224.38
+- PAYG (est.): US$450.97 / CA$645.86
+- Combined: US$607.64 / CA$870.24
 - Subscription render units: 358,448
-- Per worker MTD: #462 US$79.34 (181,582 units), #463 US$60.81 (139,174), #478 US$16.47 (37,692)
+- Per worker MTD: #462 US$79.37 (181,582 units), #463 US$60.83 (139,174), #478 US$16.47 (37,692)
 
 ## Yesterday closed (Nov 17)
 
@@ -68,7 +68,7 @@ Updated 2026-11-19 00:58 UTC. FX: 1 USD = 1.43216 CAD.
 
 ## Today in progress (Nov 19)
 
-- PAYG US$1.32, subscription US$0.00, total US$1.32 / CA$1.88 (captured 00:58 UTC; day just started; PAYG-only continues — sub $0 expected)
+- PAYG US$3.23, subscription US$0.00, total US$3.23 / CA$4.63 (captured 01:59 UTC; day just started; PAYG-only continues — sub $0 expected)
 
 ## October 2026 — final (estimates, CORRECTED 2026-11-01)
 
@@ -91,7 +91,7 @@ Updated 2026-11-19 00:58 UTC. FX: 1 USD = 1.43216 CAD.
 
 ## November month-end forecast
 
-- Pace-based projection (Nov 19, 00:58 UTC; 60.1% of month elapsed): subscription ~US$260 / CA$373, PAYG ~US$747 / CA$1,069, combined ~US$1,007 / CA$1,442. Assumes PAYG-only continues and the projected pool rate (0.0004369/unit) holds; November's pool is still forming (US$111,026 vs October's US$102,921 final pool), so the rate — and the projection — can still move.
+- Pace-based projection (Nov 19, 01:59 UTC; 60.3% of month elapsed): subscription ~US$260 / CA$372, PAYG ~US$748 / CA$1,072, combined ~US$1,008 / CA$1,444. Assumes PAYG-only continues and the projected pool rate (0.0004371/unit) holds; November's pool is still forming (US$111,080 vs October's US$102,921 final pool), so the rate — and the projection — can still move.
 
 ## November 15 reconciliation (checked 2026-11-16 09:00 EST — dashboard.sogni.ai/subscription-earnings)
 
