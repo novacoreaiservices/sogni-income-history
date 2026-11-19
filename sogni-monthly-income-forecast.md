@@ -1,14 +1,14 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-11-19 11:58 UTC. FX: 1 USD = 1.43216 CAD.
+Updated 2026-11-19 12:58 UTC. FX: 1 USD = 1.43216 CAD.
 
 ## Month to date (November 2026)
 
-- Subscription (est.): US$157.57 / CA$225.67
-- PAYG (est.): US$458.52 / CA$656.67
-- Combined: US$616.09 / CA$882.34
+- Subscription (est.): US$157.65 / CA$225.78
+- PAYG (est.): US$458.90 / CA$657.22
+- Combined: US$616.55 / CA$883.00
 - Subscription render units: 358,448
-- Per worker MTD: #462 US$79.82 (181,582 units), #463 US$61.18 (139,174), #478 US$16.57 (37,692)
+- Per worker MTD: #462 US$79.86 (181,582 units), #463 US$61.21 (139,174), #478 US$16.58 (37,692)
 
 ## Yesterday closed (Nov 17)
 
@@ -68,7 +68,7 @@ Updated 2026-11-19 11:58 UTC. FX: 1 USD = 1.43216 CAD.
 
 ## Today in progress (Nov 19)
 
-- PAYG US$10.78, subscription US$0.00, total US$10.78 / CA$15.43 (captured 11:58 UTC; day just started; PAYG-only continues — sub $0 expected)
+- PAYG US$11.15, subscription US$0.00, total US$11.15 / CA$15.98 (captured 12:58 UTC; day just started; PAYG-only continues — sub $0 expected)
 
 ## October 2026 — final (estimates, CORRECTED 2026-11-01)
 
@@ -91,7 +91,7 @@ Updated 2026-11-19 11:58 UTC. FX: 1 USD = 1.43216 CAD.
 
 ## November month-end forecast
 
-- Pace-based projection (Nov 19, 11:58 UTC; 61.7% of month elapsed): subscription ~US$256 / CA$366, PAYG ~US$744 / CA$1,065, combined ~US$999 / CA$1,431. Assumes PAYG-only continues and the projected pool rate (0.0004396/unit) holds; November's pool is still forming (US$111,828 vs October's US$102,921 final pool), so the rate — and the projection — can still move.
+- Pace-based projection (Nov 19, 12:58 UTC; 61.8% of month elapsed): subscription ~US$255 / CA$365, PAYG ~US$743 / CA$1,064, combined ~US$998 / CA$1,429. Assumes PAYG-only continues and the projected pool rate (0.0004398/unit) holds; November's pool is still forming (US$111,897 vs October's US$102,921 final pool), so the rate — and the projection — can still move.
 
 ## November 15 reconciliation (checked 2026-11-16 09:00 EST — dashboard.sogni.ai/subscription-earnings)
 
