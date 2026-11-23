@@ -1,14 +1,14 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-11-23 17:58 UTC. FX: 1 USD = 1.433241 CAD.
+Updated 2026-11-23 18:58 UTC. FX: 1 USD = 1.433241 CAD.
 
 ## Month to date (November 2026)
 
-- Subscription (est.): US$164.52 / CA$235.80
-- PAYG (est.): US$591.49 / CA$847.75
-- Combined: US$756.01 / CA$1,083.54
+- Subscription (est.): US$164.53 / CA$235.81
+- PAYG (est.): US$593.20 / CA$850.20
+- Combined: US$757.73 / CA$1,086.01
 - Subscription render units: 358,448
-- Per worker MTD: #462 US$83.34 (181,582 units), #463 US$63.88 (139,174 units), #478 US$17.30 (37,692 units)
+- Per worker MTD: #462 US$83.35 (181,582 units), #463 US$63.88 (139,174 units), #478 US$17.30 (37,692 units)
 
 ## Yesterday closed (Nov 17)
 
@@ -80,11 +80,11 @@ Updated 2026-11-23 17:58 UTC. FX: 1 USD = 1.433241 CAD.
 
 ## Yesterday closed (Nov 22)
 
-- PAYG US$37.75, subscription US$0.00, total US$37.75 / CA$54.10 (captured 17:58 UTC; day frozen; PAYG-only extended through Nov 22 by user decision — sub $0 is deliberate, not an anomaly)
+- PAYG US$37.75, subscription US$0.00, total US$37.75 / CA$54.10 (captured 18:58 UTC; day frozen; PAYG-only extended through Nov 22 by user decision — sub $0 is deliberate, not an anomaly)
 
 ## Today in progress (Nov 23)
 
-- PAYG US$24.46, subscription US$0.00, total US$24.46 / CA$35.06 (captured 17:58 UTC)
+- PAYG US$26.17, subscription US$0.00, total US$26.17 / CA$37.51 (captured 18:58 UTC)
 
 ## October 2026 — final (estimates, CORRECTED 2026-11-01)
 
@@ -107,7 +107,7 @@ Updated 2026-11-23 17:58 UTC. FX: 1 USD = 1.433241 CAD.
 
 ## November month-end forecast
 
-- Pace-based projection (Nov 23, 17:58 UTC; 75.8% of month elapsed): subscription ~US$217 / CA$310.95, PAYG ~US$780 / CA$1,117.94, combined ~US$997 / CA$1,428.89. Assumes PAYG-only continues and the projected pool rate (0.0004590/unit) holds; November's pool is still forming (US$118,485 vs October's US$102,921 final pool), so the rate — and the projection — can still move.
+- Pace-based projection (Nov 23, 18:58 UTC; 76.0% of month elapsed): subscription ~US$217 / CA$310.40, PAYG ~US$781 / CA$1,119.13, combined ~US$997 / CA$1,429.53. Assumes PAYG-only continues and the projected pool rate (0.0004590/unit) holds; November's pool is still forming (US$118,525 vs October's US$102,921 final pool), so the rate — and the projection — can still move.
 
 ## November 15 reconciliation (checked 2026-11-16 09:00 EST — dashboard.sogni.ai/subscription-earnings)
 
