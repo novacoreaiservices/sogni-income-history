@@ -1,12 +1,12 @@
 # Sogni Monthly Income Forecast
 
-Updated 2026-11-25 01:58 UTC. FX: 1 USD = 1.429121 CAD.
+Updated 2026-11-25 02:58 UTC. FX: 1 USD = 1.429121 CAD.
 
 ## Month to date (November 2026)
 
-- Subscription (est.): US$165.39 / CA$236.36
-- PAYG (est.): US$625.00 / CA$893.20
-- Combined: US$790.39 / CA$1,129.56
+- Subscription (est.): US$165.38 / CA$236.35
+- PAYG (est.): US$625.74 / CA$894.26
+- Combined: US$791.12 / CA$1,130.61
 - Subscription render units: 358,448
 - Per worker MTD: #462 US$83.78 (181,582 units), #463 US$64.21 (139,174 units), #478 US$17.39 (37,692 units)
 
@@ -88,11 +88,11 @@ Updated 2026-11-25 01:58 UTC. FX: 1 USD = 1.429121 CAD.
 
 ## Yesterday closed (Nov 24)
 
-- PAYG US$22.60, subscription US$0.00, total US$22.60 / CA$32.30 (captured 01:58 UTC; day frozen; PAYG-only extended through Nov 24 by user decision — sub $0 is deliberate, not an anomaly)
+- PAYG US$22.60, subscription US$0.00, total US$22.60 / CA$32.30 (captured 02:58 UTC; day frozen; PAYG-only extended through Nov 24 by user decision — sub $0 is deliberate, not an anomaly)
 
 ## Today in progress (Nov 25)
 
-- PAYG US$0.91, subscription US$0.00, total US$0.91 / CA$1.30 (captured 01:58 UTC)
+- PAYG US$1.65, subscription US$0.00, total US$1.65 / CA$2.36 (captured 02:58 UTC)
 
 ## October 2026 — final (estimates, CORRECTED 2026-11-01)
 
@@ -115,7 +115,7 @@ Updated 2026-11-25 01:58 UTC. FX: 1 USD = 1.429121 CAD.
 
 ## November month-end forecast
 
-- Pace-based projection (Nov 25, 01:58 UTC; 80.3% of month elapsed): subscription ~US$206 / CA$294.44, PAYG ~US$779 / CA$1,112.67, combined ~US$985 / CA$1,407.11. Assumes PAYG-only continues and the projected pool rate (0.0004614/unit) holds; November's pool is still forming (US$120,027 vs October's US$102,921 final pool), so the rate — and the projection — can still move.
+- Pace-based projection (Nov 25, 02:58 UTC; 80.4% of month elapsed): subscription ~US$206 / CA$293.91, PAYG ~US$778 / CA$1,112.06, combined ~US$984 / CA$1,405.98. Assumes PAYG-only continues and the projected pool rate (0.0004614/unit) holds; November's pool is still forming (US$120,050 vs October's US$102,921 final pool), so the rate — and the projection — can still move.
 
 ## November 15 reconciliation (checked 2026-11-16 09:00 EST — dashboard.sogni.ai/subscription-earnings)
 
